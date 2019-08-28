@@ -13,6 +13,42 @@
 문서를 수정하거나 변형하여 공유해도 됩니다만, 반드시 같은 CC-BY-NC-SA
 저작권을 적용하시는 조건입니다.
 
+### 블로그
+
+* [https://ledgku.tistory.com/](https://ledgku.tistory.com/)
+
+* [https://118k.tistory.com/category](https://118k.tistory.com/category)
+
+* [https://paiai.tistory.com/category](https://paiai.tistory.com/category)
+
+* https://www.zerocho.com/
+
+* https://mrxx.tistory.com/category
+
+* http://blog.naver.com/PostList.nhn?blogId=dsz08082&categoryNo=34
+
+* https://blog.naver.com/prologue/PrologueList.nhn?blogId=frogramo
+
+* https://noisivohees.tistory.com/
+
+* https://gmlwjd9405.github.io/
+
+* https://koosaga.com/
+
+* https://plzrun.tistory.com/
+
+* https://hanxxang.tistory.com/
+
+* https://enterkey.tistory.com/
+
+* https://0urtrees.tistory.com/
+
+* https://kingname.tistory.com/
+
+  
+
+  
+
 ### 이 사이트 내용 수정
 
 찾는 블로그,카페가 목록에 없어 추가하시길 원하신다면,
