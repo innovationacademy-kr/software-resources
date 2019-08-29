@@ -79,9 +79,30 @@
 * [데브원영 DevWonYoung](https://www.youtube.com/channel/UCPdTFQUHzAzFobngtw1sFKg)
 * [DevTube](https://dev.tube/)
 
-  
+  개발관련 레딧
 
-  	
+* [Android](https://www.reddit.com/r/Android/)
+* [jailbreak](https://www.reddit.com/r/jailbreak/)
+* [gamedev](https://www.reddit.com/r/gamedev/)
+* [sysadmin](https://www.reddit.com/r/sysadmin/)
+* [learnpython](https://www.reddit.com/r/learnpython/)
+* [learnpython](https://www.reddit.com/r/aws/)
+* [learnprogramming](https://www.reddit.com/r/learnprogramming/)
+* [hacking](https://www.reddit.com/r/hacking/)
+* [programming](https://www.reddit.com/r/programming/)
+* [androiddev](https://www.reddit.com/r/androiddev/)
+* [dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/)
+* [webdev](https://www.reddit.com/r/webdev/)
+* [golang](https://www.reddit.com/r/golang/)
+* [iOSProgramming](https://www.reddit.com/r/iOSProgramming/)
+* [archlinux](https://www.reddit.com/r/archlinux/)
+* [coding](https://www.reddit.com/r/coding/)
+* [redditdev](https://www.reddit.com/r/redditdev/)
+* [Python](https://www.reddit.com/r/Python/)
+* [software](https://www.reddit.com/r/software/)
+* [PowerShell](https://www.reddit.com/r/PowerShell/)
+* [linux](https://www.reddit.com/r/linux/)
+* [MachineLearning](https://www.reddit.com/r/MachineLearning/)
 
 ### 이 사이트 내용 수정
 
