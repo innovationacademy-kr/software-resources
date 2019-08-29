@@ -34,12 +34,20 @@
 * https://medium.com/@sunki.baek
 * https://blog.voidmainvoid.net/
 * https://tech.ssut.me/
+* https://bcho.tistory.com/
+* https://jojoldu.tistory.com/
+* http://kwon37xi.egloos.com/
+* https://metalkin.tistory.com/
+* https://nsh83.tistory.com/
 
 ### 기업-기술블로그
 
 * [우아한형제들](http://woowabros.github.io/)
 * [스포카](https://spoqa.github.io/)
 * [구글](https://developers.googleblog.com/)
+* [구글-kr](https://developers-kr.googleblog.com/)
+* [구글안드로이드](https://developer.android.com/)
+* [구글 모바일 Ads](http://googlemobileads.blogspot.com/)
 * [페이스북](https://engineering.fb.com/)
 * [마이크로소프트](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
 * [트위터](https://blog.twitter.com/engineering/en_us.html)
@@ -60,6 +68,7 @@
 * [비트윈VCNC](http://engineering.vcnc.co.kr/)
 * [JANDI](https://tosslab.github.io/)
 * [이음소시어](http://bigmatch.i-um.net/)
+* [애플](https://developer.apple.com/)
 
 ### 팟캐스트
 
@@ -81,6 +90,9 @@
 * [ZeroCho TV](https://www.youtube.com/channel/UCp-vBtwvBmDiGqjvLjChaJw)
 * [데브원영 DevWonYoung](https://www.youtube.com/channel/UCPdTFQUHzAzFobngtw1sFKg)
 * [DevTube](https://dev.tube/)
+* [포프TV](https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ)
+* [springcamp.io](https://www.youtube.com/channel/UCj5gqpKTDDxsXqceYwn1Feg)
+* [Kenu Heo](https://www.youtube.com/channel/UCHbXBo1fQAg7j0D7HKKYHJg)
 
 ### 레딧
 
@@ -142,6 +154,7 @@
 * [실무코딩](https://www.facebook.com/groups/smcoding/)
 * [데이터뽀개기](https://www.facebook.com/groups/databreak/)
 * [Ansible Korea User Group](https://www.facebook.com/groups/ansiblekoreausergroup/)
+* [함수형자바스크립트](https://www.facebook.com/groups/539983619537858/)
 
 ### 커뮤니티, 카페
 
@@ -160,7 +173,14 @@
 * [훈스닷넷](http://www.hoons.net/)
 * [SoEn](http://www.soen.kr/)
 * [델마당](https://www.delmadang.com/)
-* 
+* [볼랜드포럼](http://borlandforum.com/)
+* [남궁성의 코드초보스터디](https://cafe.naver.com/javachobostudy)
+* [깃허브](https://github.com/)
+* [InfoQ](https://www.infoq.com/)
+* [rssheap](http://www.rssheap.com/)
+* [airpair](https://www.airpair.com/posts)
+* [네이버개발자센터](https://cafe.naver.com/ndevcenter)
+* [구루비](http://www.gurubee.net/)
 
 ### 이 사이트 내용 수정
 
