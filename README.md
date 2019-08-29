@@ -13,7 +13,7 @@
 문서를 수정하거나 변형하여 공유해도 됩니다만, 반드시 같은 CC-BY-NC-SA
 저작권을 적용하시는 조건입니다.
 
-### 블로그
+### 개인블로그
 
 * [https://ledgku.tistory.com/](https://ledgku.tistory.com/)
 * [https://118k.tistory.com/category](https://118k.tistory.com/category)
@@ -35,8 +35,28 @@
 * https://blog.voidmainvoid.net/
 * https://tech.ssut.me/
 * https://subicura.com/
-* http://woowabros.github.io/
-* https://spoqa.github.io/
+
+### 기업-기술블로그
+
+* [우아한형제들](http://woowabros.github.io/)
+* [스포카](https://spoqa.github.io/)
+* [구글](https://developers.googleblog.com/)
+* [페이스북](https://engineering.fb.com/)
+* [마이크로소프트](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
+* [트위터](https://blog.twitter.com/engineering/en_us.html)
+* [넷플릭스](https://medium.com/netflix-techblog)
+* [아마존](https://developer.amazon.com/blogs)
+* [페이팔](https://medium.com/paypal-engineering)
+* [에어비앤비](https://medium.com/airbnb-engineering)
+* [드롭박스](https://blogs.dropbox.com/tech/)
+* [인스타그램](https://instagram-engineering.com/)
+* [이베이](https://tech.ebayinc.com/)
+* [네이버](https://d2.naver.com/home)
+* [카카오](https://tech.kakao.com/)
+* [라인](https://engineering.linecorp.com/ko/blog/)
+* [티몬](https://tmondev.blog.me/)
+* [NHN](https://meetup.toast.com/)
+* [레진](https://tech.lezhin.com/)
 
 ### 팟캐스트
 
@@ -61,7 +81,7 @@
 
   
 
-  
+  	
 
 ### 이 사이트 내용 수정
 
