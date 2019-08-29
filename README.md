@@ -16,24 +16,48 @@
 ### 블로그
 
 * [https://ledgku.tistory.com/](https://ledgku.tistory.com/)
+
 * [https://118k.tistory.com/category](https://118k.tistory.com/category)
+
 * [https://paiai.tistory.com/category](https://paiai.tistory.com/category)
+
 * https://www.zerocho.com/
+
 * https://mrxx.tistory.com/category
+
 * http://blog.naver.com/PostList.nhn?blogId=dsz08082&categoryNo=34
+
 * https://blog.naver.com/prologue/PrologueList.nhn?blogId=frogramo
+
 * https://noisivohees.tistory.com/
+
 * https://gmlwjd9405.github.io/
+
 * https://koosaga.com/
+
 * https://plzrun.tistory.com/
+
 * https://hanxxang.tistory.com/
+
 * https://enterkey.tistory.com/
+
 * https://0urtrees.tistory.com/
+
 * https://kingname.tistory.com/
+
 * https://wayhome25.github.io/
+
 * https://medium.com/@sunki.baek
+
 * https://blog.voidmainvoid.net/
+
 * https://tech.ssut.me/
+
+* https://subicura.com/
+
+  http://woowabros.github.io/
+
+  https://spoqa.github.io/
 
 ### 팟캐스트
 
