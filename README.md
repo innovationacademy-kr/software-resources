@@ -16,56 +16,35 @@
 ### 블로그
 
 * [https://ledgku.tistory.com/](https://ledgku.tistory.com/)
-
 * [https://118k.tistory.com/category](https://118k.tistory.com/category)
-
 * [https://paiai.tistory.com/category](https://paiai.tistory.com/category)
-
 * https://www.zerocho.com/
-
 * https://mrxx.tistory.com/category
-
 * http://blog.naver.com/PostList.nhn?blogId=dsz08082&categoryNo=34
-
 * https://blog.naver.com/prologue/PrologueList.nhn?blogId=frogramo
-
 * https://noisivohees.tistory.com/
-
 * https://gmlwjd9405.github.io/
-
 * https://koosaga.com/
-
 * https://plzrun.tistory.com/
-
 * https://hanxxang.tistory.com/
-
 * https://enterkey.tistory.com/
-
 * https://0urtrees.tistory.com/
-
 * https://kingname.tistory.com/
-
 * https://wayhome25.github.io/
-
 * https://medium.com/@sunki.baek
-
 * https://blog.voidmainvoid.net/
-
 * https://tech.ssut.me/
-
 * https://subicura.com/
-
-  http://woowabros.github.io/
-
-  https://spoqa.github.io/
+* http://woowabros.github.io/
+* https://spoqa.github.io/
 
 ### 팟캐스트
 
 * [나는 프로그래머다!](https://podcasts.apple.com/kr/podcast/%EB%82%98%EB%8A%94-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%8B%A4/id1082628193)
-
 * [[자가발전] 우주최초 외계어없는 IT팟캐스트](https://podcasts.apple.com/kr/podcast/%EC%9E%90%EA%B0%80%EB%B0%9C%EC%A0%84-%EC%9A%B0%EC%A3%BC%EC%B5%9C%EC%B4%88-%EC%99%B8%EA%B3%84%EC%96%B4%EC%97%86%EB%8A%94-it%ED%8C%9F%EC%BA%90%EC%8A%A4%ED%8A%B8/id997395408?l=en&mt=2)
-
 * [stdout.fm](https://stdout.fm/)
+* [데이터 지능 팟캐스트](http://data-intelligence.io/)
+* [애자일키워드](http://www.podbbang.com/ch/14757)
 
 ### 유튜브
 
