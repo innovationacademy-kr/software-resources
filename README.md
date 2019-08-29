@@ -34,7 +34,6 @@
 * https://medium.com/@sunki.baek
 * https://blog.voidmainvoid.net/
 * https://tech.ssut.me/
-* https://subicura.com/
 
 ### 기업-기술블로그
 
@@ -57,6 +56,10 @@
 * [티몬](https://tmondev.blog.me/)
 * [NHN](https://meetup.toast.com/)
 * [레진](https://tech.lezhin.com/)
+* [퍼플웍스](https://subicura.com/)
+* [비트윈VCNC](http://engineering.vcnc.co.kr/)
+* [JANDI](https://tosslab.github.io/)
+* [이음소시어](http://bigmatch.i-um.net/)
 
 ### 팟캐스트
 
@@ -139,6 +142,25 @@
 * [실무코딩](https://www.facebook.com/groups/smcoding/)
 * [데이터뽀개기](https://www.facebook.com/groups/databreak/)
 * [Ansible Korea User Group](https://www.facebook.com/groups/ansiblekoreausergroup/)
+
+### 커뮤니티, 카페
+
+* [돌 프로그래밍 카페](https://cafe.naver.com/buldon)
+* [OKKY](https://okky.kr/)
+* [아이폰데브](https://iphonedev.co.kr/)
+* [데브피아](http://www.devpia.com/)
+* [스택오버플로우](https://stackoverflow.com/)
+* [맥부기](https://cafe.naver.com/mcbugi)
+* [안노자](https://cafe.naver.com/jandev)
+* [PHP스쿨](https://www.phpschool.com/)
+* [안드로이드펍](https://www.androidpub.com/)
+* [TAEYO.NET](http://www.taeyo.pe.kr/)
+* [게임코디](http://www.gamecodi.com/)
+* [KLDP](https://kldp.org/)
+* [훈스닷넷](http://www.hoons.net/)
+* [SoEn](http://www.soen.kr/)
+* [델마당](https://www.delmadang.com/)
+* 
 
 ### 이 사이트 내용 수정
 
