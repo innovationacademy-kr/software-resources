@@ -79,7 +79,7 @@
 * [데브원영 DevWonYoung](https://www.youtube.com/channel/UCPdTFQUHzAzFobngtw1sFKg)
 * [DevTube](https://dev.tube/)
 
-  ### 개발관련 레딧
+  ### 레딧
 
 * [Android](https://www.reddit.com/r/Android/)
 * [jailbreak](https://www.reddit.com/r/jailbreak/)
@@ -103,6 +103,42 @@
 * [PowerShell](https://www.reddit.com/r/PowerShell/)
 * [linux](https://www.reddit.com/r/linux/)
 * [MachineLearning](https://www.reddit.com/r/MachineLearning/)
+
+### 페이스북 그룹
+
+* [OSS 개발자 포럼](https://www.facebook.com/groups/ossdevforum/)
+* [오픈소스 포럼](https://www.facebook.com/groups/ossforum/)
+* [인공지능 개발자 커뮤니티](https://www.facebook.com/groups/ossforum/)
+* [생활코딩스터디](https://www.facebook.com/groups/490410887693322/)
+* [바이오스핀](https://www.facebook.com/groups/biospin/)
+* [Python Korea 파이썬 기초 스터디](https://www.facebook.com/groups/232592940253131/)
+* [Python Korea](https://www.facebook.com/groups/pythonkorea/)
+* [여자개발자모임터](https://www.facebook.com/groups/womendevel/)
+* [생활코딩](https://www.facebook.com/groups/codingeverybody/)
+* [TensorFlow KR](https://www.facebook.com/groups/TensorFlowKR/)
+* [프론트엔드개발그룹](https://www.facebook.com/groups/webfrontend/)
+* [AWSKRUG-AWS한국사용자모임](https://www.facebook.com/groups/awskrug/)
+* [DevOps Korea](https://www.facebook.com/groups/awskrug/)
+* [IT 인프라 엔지니어 그룹](https://www.facebook.com/groups/InfraEngineer/)
+* [Atlassian User Group](https://www.facebook.com/groups/atlassiankorea/)
+* [KAFKA 한국 사용자 모임](https://www.facebook.com/groups/kafka.kru/)
+* [Atlassian User Group (Seoul)](https://www.facebook.com/groups/kafka.kru/)
+* [자바카페 커뮤니티](https://www.facebook.com/groups/javacafe/)
+* [한국 MySQL 사용자 그룹](https://www.facebook.com/groups/623067261102382/)
+* [Kubernetes & Docker 스터디 그룹](https://www.facebook.com/groups/k8skorea/)
+* [Korea Docker User Group](https://www.facebook.com/groups/korea.docker.user.group/)
+* [Node.js Korea](https://www.facebook.com/groups/nodejskr/)
+* [Facebook Developer Circle: Seoul](https://www.facebook.com/groups/DevCSeoul/)
+* [GDG Korea WebTech](https://www.facebook.com/groups/webTechKR/)
+* [GDG Seoul](https://www.facebook.com/groups/gdgseoul/)
+* [Jenkins Korea](https://www.facebook.com/groups/712393792190261/)
+* [JetBrains Korea User Group](https://www.facebook.com/groups/1821879151380372/)
+* [프론트엔드 스터디 그룹](https://www.facebook.com/groups/714671295358301/)
+* [TypeScript Korea](https://www.facebook.com/groups/TSKorea/)
+* [코드스피츠](https://www.facebook.com/groups/codespitz/)
+* [실무코딩](https://www.facebook.com/groups/smcoding/)
+* [데이터뽀개기](https://www.facebook.com/groups/databreak/)
+* [Ansible Korea User Group](https://www.facebook.com/groups/ansiblekoreausergroup/)
 
 ### 이 사이트 내용 수정
 
