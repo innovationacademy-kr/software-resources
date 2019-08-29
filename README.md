@@ -79,7 +79,7 @@
 * [데브원영 DevWonYoung](https://www.youtube.com/channel/UCPdTFQUHzAzFobngtw1sFKg)
 * [DevTube](https://dev.tube/)
 
-  ### 레딧
+### 레딧
 
 * [Android](https://www.reddit.com/r/Android/)
 * [jailbreak](https://www.reddit.com/r/jailbreak/)
