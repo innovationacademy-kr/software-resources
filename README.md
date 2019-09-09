@@ -15,7 +15,7 @@
 
 #### 태그 리스트
 
-#파이썬, #자료구조, #알고리즘, #머신러닝, #임베디드
+#Python, #자료구조, #알고리즘, #머신러닝, #임베디드, #빅데이터, #DB, #IDE, #Java, #AWS
 
 ## 국내, 국외 개발 블로그 모음
 
@@ -25,8 +25,8 @@
 
 | 링크 | 분야 태그 |
 |:-|:-|
-| https://ledgku.tistory.com/ | #파이썬, #자료구조, #알고리즘, #수학, #머신러닝, #임베디드 |
-| https://118k.tistory.com/category | |
+| https://ledgku.tistory.com/ | #Python, #자료구조, #알고리즘, #수학, #머신러닝, #빅데이터, #임베디드 |
+| https://118k.tistory.com/category | #Java, #Python, #빅데이터, #IDE, #DB, #AWS, #알고리즘 |
 | https://paiai.tistory.com/category | |
 | https://www.zerocho.com/ | |
 | https://tech.ssut.me/ | |
