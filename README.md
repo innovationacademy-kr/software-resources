@@ -15,7 +15,7 @@
 
 #### 태그 리스트
 
-#Python, #자료구조, #알고리즘, #머신러닝, #임베디드, #빅데이터, #DB, #IDE, #Java, #AWS, #PHP
+#Python, #자료구조, #알고리즘, #머신러닝, #임베디드, #빅데이터, #DB, #IDE, #Java, #AWS, #PHP, #수학, #Node.js, #Kaggle, #Tensorflow, #HTML, #CSS, #Javascript, #jQuery, #ECMAScript, #TypeScript, #React, #MongoDB
 
 ## 국내, 국외 개발 블로그 모음
 
@@ -27,8 +27,8 @@
 |:-|:-|
 | https://ledgku.tistory.com/ | #Python, #자료구조, #알고리즘, #수학, #머신러닝, #빅데이터, #임베디드 |
 | https://118k.tistory.com/category | #Java, #Python, #빅데이터, #IDE, #DB, #AWS, #알고리즘 |
-| https://paiai.tistory.com/category | #Python, #Java, #PHP, #알고리즘, #AWS, #DB, #머신러닝, #IDE |
-| https://www.zerocho.com/ | |
+| https://paiai.tistory.com/category | #Python, #Java, #빅데이터, #알고리즘, #PHP,  #DB, #머신러닝, #IDE, #AWS,  #Node.js, #Kaggle, #Tensorflow |
+| https://www.zerocho.com/ | #DB, #HTML, #CSS, #Javascript, #jQuery, #ECMAScript, #TypeScript, #React, #알고리즘, #git, #MongoDB |
 | https://tech.ssut.me/ | |
 | https://bcho.tistory.com/ | |
 | https://jojoldu.tistory.com/ | |
