@@ -13,31 +13,14 @@
 문서를 수정하거나 변형하여 공유해도 됩니다만, 반드시 같은 CC-BY-NC-SA
 저작권을 적용하시는 조건입니다.
 
-#### 태그 리스트
-
-#Python, #자료구조, #알고리즘, #머신러닝, #임베디드, #빅데이터, #DB, #IDE, #Java, #AWS, #PHP, #수학, #Node.js, #Kaggle, #Tensorflow, #HTML, #CSS, #Javascript, #jQuery, #ECMAScript, #TypeScript, #React, #MongoDB
-
---------------------
-
-## [국내, 국외 개발 블로그 모음](blogs/personal_blogs.md)
-
-### [기업-기술블로그](blogs/tech_blogs.md)
-------------
-
-## [개발 관련 컨텐츠 모음](contents/dev_contents.md)
-
-------------------------------------
-
-## 커뮤니티
-
-### [레딧](communities/reddits.md)
-
-### [페이스북 그룹](comminities/fb_groups.md)
-
-### [커뮤니티, 카페](communities/cafe_communities.md)
-
--------------
-
+## 목차
+* [국내, 국외 개발 블로그 모음](blogs/personal_blogs.md)
+  * [기업-기술블로그](blogs/tech_blogs.md)
+* [개발 관련 컨텐츠 모음](contents/dev_contents.md)
+* 커뮤니티
+  * [레딧](communities/reddits.md)
+  * [페이스북 그룹](comminities/fb_groups.md)
+  * [커뮤니티, 카페](communities/cafe_communities.md)
 ### 이 사이트 내용 수정
 
 찾는 블로그,카페가 목록에 없어 추가하시길 원하신다면,
