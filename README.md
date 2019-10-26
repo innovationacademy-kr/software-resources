@@ -19,7 +19,7 @@
 * [개발 관련 컨텐츠 모음](contents/dev_contents.md)
 * 커뮤니티
   * [레딧](communities/reddits.md)
-  * [페이스북 그룹](comminities/fb_groups.md)
+  * [페이스북 그룹](communities/fb_groups.md)
   * [커뮤니티, 카페](communities/cafe_communities.md)
 ### 이 사이트 내용 수정
 
