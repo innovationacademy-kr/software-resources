@@ -24,9 +24,10 @@
   * [커뮤니티, 카페](communities/cafe_communities.md)
 ### 이 사이트 내용 수정
 
-찾는 블로그,카페가 목록에 없어 추가하시길 원하신다면,
+직접 운영하시거나, 알고 계시던 블로그,카페가 목록에 없어 추가하시길 원하신다면,
 이 목록을 직접 수정하여 Pull Request를 날려주시거나, 이슈로 등록해주시면 반영하겠습니다.
 
 ### 이 문서의 공헌자 (가나다순)
 
 - [이 하늘](mailto:lee.haneul@gmail.com)
+- [이 민석](mailto:ykhl1itj@gmail.com)
