@@ -23,7 +23,7 @@
   * [커뮤니티, 카페](communities/cafe_communities.md)
 * 팟캐스트 유튜브 : 너무 많아요.
   * [팟방-개발자(검색)](http://www.podbbang.com/search?keyword=개발자)
-  * [유투브-개발자(검색)](https://www.youtube.com/results?search_query=개발자)
+  * [유튜브-개발자(검색)](https://www.youtube.com/results?search_query=개발자)
   
 ### 이 사이트 내용 수정
 
