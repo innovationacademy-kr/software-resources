@@ -16,12 +16,15 @@
 ## 목차
 * [국내, 국외 개발 블로그 모음](blogs/personal_blogs.md)
 * [기업-기술블로그](blogs/tech_blogs.md)
-
 * [개발 관련 컨텐츠 모음](contents/dev_contents.md)
 * 커뮤니티
   * [레딧](communities/reddits.md)
   * [페이스북 그룹](communities/fb_groups.md)
   * [커뮤니티, 카페](communities/cafe_communities.md)
+* 팟캐스트 유튜브 : 너무 많아요.
+  * [팟방-개발자(검색)](http://www.podbbang.com/search?keyword=개발자)
+  * [유투브-개발자(검색)](https://www.youtube.com/results?search_query=개발자)
+  
 ### 이 사이트 내용 수정
 
 직접 운영하시거나, 알고 계시던 블로그,카페가 목록에 없어 추가하시길 원하신다면,
