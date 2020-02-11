@@ -63,6 +63,13 @@
 | https://appear.github.io/                       |                                                              |
 | https://koyo.kr/                                |                                                              |
 | https://hhko.tistory.com/                       |                                                              |
+| https://velog.io/@max9106                       |                                                              |
+| https://evan-moon.github.io                     |                                                              |
+| https://coding-factory.tistory.com              |                                                              |
+| https://kyuhyuk.kr                              |                                                              |
+| https://blog.naver.com/chandong83               |                                                              |
+| https://brunch.co.kr/magazine/aboutsaas         |                                                              |
+| https://johngrib.github.io                      |                                                              |
 
 ### 해외(+영어)블로그
 
