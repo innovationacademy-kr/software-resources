@@ -14,7 +14,7 @@
 
 ------------
 
-### 개인블로그
+### 개인블로그 (URL 알파벳순)
 
 | 링크                                             | 분야 태그                                                      |
 | :-----------------------------------------------| :----------------------------------------------------------  |
@@ -24,6 +24,7 @@
 | https://blog.leop0ld.org/                       |                                                              |
 | https://blog.naver.com/chandong83               |                                                              |
 | https://blog.naver.com/nackji80                 |                                                              |
+| https://blog.naver.com/occidere                 |                                                              |
 | https://bob-full.tistory.com/                   |                                                              |
 | https://brunch.co.kr/@jowlee                    |                                                              |
 | https://brunch.co.kr/@dongkang                  |                                                              |
@@ -33,6 +34,7 @@
 | https://brunch.co.kr/@yhkang0513                |                                                              |
 | https://brunch.co.kr/@alden                     |                                                              |
 | https://charsyam.wordpress.com/                 |                                                              |
+| https://cheese10yun.github.io                   |                                                              |
 | https://coding-factory.tistory.com              |                                                              |
 | http://daddynkidsmakers.blogspot.com/           |                                                              |
 | https://evan-moon.github.io                     |                                                              |
@@ -70,11 +72,13 @@
 | https://tech.ssut.me/                           |                                                              |
 | https://thinkinginruby.wordpress.com/           |                                                              |
 | https://ujuc.github.io/                         |                                                              |
+| https://velog.io/@bathingape                    |                                                              |
 | https://velog.io/@max9106                       |                                                              |
 | https://velog.io/@rjs1197                       |                                                              |
 | https://wckhg89.github.io/                      |                                                              |
 | https://www.zerocho.com/                        | #DB, #HTML, #CSS, #Javascript, #jQuery, #ECMAScript, #TypeScript, #React, #알고리즘, #git, #MongoDB |
 | https://01010011.blog/                          |                                                              |
+| https://www.44bits.io/ko                        |                                                              |
 
 ### 해외(+영어)블로그
 
