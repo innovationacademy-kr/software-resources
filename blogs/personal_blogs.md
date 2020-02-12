@@ -77,8 +77,8 @@
 | https://velog.io/@rjs1197                       |                                                              |
 | https://wckhg89.github.io/                      |                                                              |
 | https://www.zerocho.com/                        | #DB, #HTML, #CSS, #Javascript, #jQuery, #ECMAScript, #TypeScript, #React, #알고리즘, #git, #MongoDB |
-| https://01010011.blog/                          |                                                              |
 | https://www.44bits.io/ko                        |                                                              |
+| https://01010011.blog/                          |                                                              |
 
 ### 해외(+영어)블로그
 
