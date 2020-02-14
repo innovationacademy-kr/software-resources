@@ -24,6 +24,7 @@
 | https://bcho.tistory.com/                       |                                                              |
 | https://blog.leop0ld.org/                       |                                                              |
 | https://blog.naver.com/chandong83               |                                                              |
+| https://blog.naver.com/iyooha                   | #game                                                        |
 | https://blog.naver.com/nackji80                 |                                                              |
 | https://blog.naver.com/occidere                 |                                                              |
 | https://bob-full.tistory.com/                   |                                                              |
@@ -31,7 +32,9 @@
 | https://brunch.co.kr/@chris-song                |                                                              |
 | https://brunch.co.kr/@cloud09                   |                                                              |
 | https://brunch.co.kr/@dongkang                  |                                                              |
+| https://brunch.co.kr/@hopeless                  | #mobile                                                      |
 | https://brunch.co.kr/@jowlee                    |                                                              |
+| https://brunch.co.kr/@leedongins.               | #SaaS                                                        |
 | https://brunch.co.kr/magazine/aboutsaas         |                                                              |
 | https://brunch.co.kr/@sangjinkang               |                                                              |
 | https://brunch.co.kr/@thinkaboutlove            |                                                              |  
@@ -40,6 +43,7 @@
 | https://cheese10yun.github.io                   |                                                              |
 | https://coding-factory.tistory.com              |                                                              |
 | http://daddynkidsmakers.blogspot.com/           |                                                              |
+| https://devhyun.com                             |                                                              |
 | https://evan-moon.github.io                     |                                                              |
 | http://firejune.com/                            |                                                              |
 | https://flowvalue.tistory.com/                  |                                                              |
@@ -51,6 +55,7 @@
 | https://ifyoudontknow-youcandothis.tistory.com/ |                                                              |
 | https://118k.tistory.com/category               | #Java, #Python, #빅데이터, #IDE, #DB, #AWS, #알고리즘            |
 | https://ivorycirrus.github.io/                  |                                                              |
+| https://jhleed.tistory.com/176                  |                                                              |
 | https://jojoldu.tistory.com/                    |                                                              |
 | https://johngrib.github.io                      |                                                              |
 | https://jusung.github.io/                       |                                                              |
@@ -72,9 +77,11 @@
 | https://medium.com/@shaynekang                  |                                                              |
 | https://metalkin.tistory.com/                   |                                                              |
 | http://minieetea.com/                           |                                                              |
+| http://minsone.github.io                        |                                                              |
 | https://newstars77.blog.me/                     |                                                              |
 | https://nsh83.tistory.com/                      |                                                              |
 | https://paiai.tistory.com/category              | #Python, #Java, #빅데이터, #알고리즘, #PHP,  #DB, #머신러닝, #IDE, #AWS,  #Node.js, #Kaggle, #Tensorflow |
+| https://sanghaklee.tistory.com                  |                                                              |
 | https://taylor-kang.github.io/                  |                                                              |
 | https://tech.ssut.me/                           |                                                              |
 | https://thinkinginruby.wordpress.com/           |                                                              |
