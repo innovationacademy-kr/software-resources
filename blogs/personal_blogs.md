@@ -18,12 +18,14 @@
 
 | 링크                                             | 분야 태그                                                      |
 | :-----------------------------------------------| :----------------------------------------------------------  |
+| http://agile.egloos.com                         | #agile                                                       |
 | https://appear.github.io/                       |                                                              |
 | https://armadillo-dev.github.io/                |                                                              |
 | https://bagjunggyu.blogspot.com.                |                                                              |
 | https://bcho.tistory.com/                       |                                                              |
 | https://blog.leop0ld.org/                       |                                                              |
 | https://blog.naver.com/chandong83               |                                                              |
+| https://blog.naver.com/hidejj79                 |                                                              |
 | https://blog.naver.com/iyooha                   | #game                                                        |
 | https://blog.naver.com/nackji80                 |                                                              |
 | https://blog.naver.com/occidere                 |                                                              |
@@ -66,6 +68,7 @@
 | http://kwon37xi.egloos.com/                     |                                                              |
 | https://kyuhyuk.kr                              |                                                              |
 | https://ledgku.tistory.com/                     | #Python, #자료구조, #알고리즘, #수학, #머신러닝, #빅데이터, #임베디드    |
+| https://lovemewithoutall.github.io              |                                                              |
 | https://lsjsj92.tistory.com                     |                                                              |
 | http://mearie.org/                              |                                                              |
 | https://medium.com/@dan_kim                     |                                                              |
@@ -74,6 +77,7 @@
 | https://medium.com/@kanglpmg                    |                                                              |
 | https://medium.com/@brillante9111               |                                                              |
 | https://medium.com/@devholic                    |                                                              |
+| https://medium.com/@maxzidell                   |                                                              |
 | https://medium.com/@shaynekang                  |                                                              |
 | https://metalkin.tistory.com/                   |                                                              |
 | http://minieetea.com/                           |                                                              |
@@ -87,8 +91,10 @@
 | https://thinkinginruby.wordpress.com/           |                                                              |
 | https://ujuc.github.io/                         |                                                              |
 | https://velog.io/@bathingape                    |                                                              |
+| https://velog.io/@conatuseus                    |                                                              |
 | https://velog.io/@max9106                       |                                                              |
 | https://velog.io/@rjs1197                       |                                                              |
+| https://velog.io/@skyepodium                    |                                                              |
 | https://wckhg89.github.io/                      |                                                              |
 | https://www.zerocho.com/                        | #DB, #HTML, #CSS, #Javascript, #jQuery, #ECMAScript, #TypeScript, #React, #알고리즘, #git, #MongoDB |
 | https://www.44bits.io/ko                        |                                                              |
