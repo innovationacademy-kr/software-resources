@@ -8,7 +8,7 @@
 
 ## 블로그 관련 참고글
 
-* [개발자가 블로그를 운영해야 할 이유 by 코드쓰는](https://taegon.kim/archives/7107)
+* [개발자가 블로그를 운영해야 할 이유 by 코드쓰는사람](https://taegon.kim/archives/7107)
 * [개발자의 기술력을 높이는 길, 기술 블로그 by 알고리즘잡스](https://brunch.co.kr/@thswlsgh/6)
 * [4년간의 개인 기술 블로그 운영 회고하기 by BLAHBLAH](https://www.holaxprogramming.com/2016/11/17/blahblah-writing-as-programmer/)
 * [GitHub Pages를 이용한 기술 블로그 제작 후기 by 신범철](https://medium.com/deliverytechkorea/github-pages를-이용한-기술-블로그-제작-후기-77ce4b5e5564)
