@@ -14,8 +14,8 @@
 저작권을 적용하시는 조건입니다.
 
 ## 목차
-* [국내, 국외 개발 블로그 모음](blogs/personal_blogs.md)
 * [기업-기술블로그](blogs/tech_blogs.md)
+* [국내, 국외 개발 블로그 모음](blogs/personal_blogs.md)
 * [개발 관련 컨텐츠 모음](contents/dev_contents.md)
 * 커뮤니티
   * [레딧](communities/reddits.md)
@@ -32,5 +32,5 @@
 
 ### 이 문서의 공헌자 (가나다순)
 
-- [이 하늘](mailto:lee.haneul@gmail.com)
 - [이 민석](mailto:ykhl1itj@gmail.com)
+- [이 하늘](mailto:lee.haneul@gmail.com)
