@@ -60,7 +60,7 @@
 | https://goodtogreate.tistory.com                |                                                              |
 | https://hamait.tistory.com                      |                                                              |
 | https://hhko.tistory.com/                       |                                                              |
-| https://www.holaxprogramming.com                |                                                              |
+| https://hl1itj.tistory.com                      | #개발자 문화, #OpenSouce                                        |
 | https://hskang9.github.io/                      |                                                              |
 | http://i-bada.blogspot.com                      |                                                              |
 | https://ifyoudontknow-youcandothis.tistory.com/ |                                                              |
@@ -106,6 +106,7 @@
 | https://velog.io/@rjs1197                       |                                                              |
 | https://velog.io/@skyepodium                    |                                                              |
 | https://wckhg89.github.io/                      |                                                              |
+| https://www.holaxprogramming.com                |                                                              |
 | https://www.zerocho.com/                        | #DB, #HTML, #CSS, #Javascript, #jQuery, #ECMAScript, #TypeScript, #React, #알고리즘, #git, #MongoDB |
 | https://www.44bits.io/ko                        |                                                              |
 | https://01010011.blog/                          |                                                              |
