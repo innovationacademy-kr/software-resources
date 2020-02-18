@@ -1,3 +1,8 @@
+## 기업 블로그 관련 참고글
+
+* [포스트모템: 스타트업 기술 블로그 모음 by ChangJoo Park님](https://medium.com/@changjoopark/스타트업-기술-블로그-모음을-만들며-da1ba22627f1)
+* [--> 그 결과](https://changjoo-park.github.io/pages/1/?fbclid=IwAR2uymeiEunHUDhW7wl1scul5sXhYT_vZRs7N2emUGPTth1bMaXr7w1xVQ0)
+
 ## 기업-기술블로그 (가나다순)
 
 * [구글](https://developers.googleblog.com/)
