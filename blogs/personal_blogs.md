@@ -77,6 +77,7 @@
 | http://kwon37xi.egloos.com/                     |                                                              |
 | https://kyuhyuk.kr                              |                                                              |
 | https://ledgku.tistory.com/                     | #Python, #자료구조, #알고리즘, #수학, #머신러닝, #빅데이터, #임베디드    |
+| https://lelecoder.com/                          |                                                              |
 | https://lovemewithoutall.github.io              |                                                              |
 | https://lsjsj92.tistory.com                     |                                                              |
 | http://mearie.org/                              |                                                              |
