@@ -15,6 +15,7 @@
 * [라인](https://engineering.linecorp.com/ko/blog/)
 * [레진](https://tech.lezhin.com/)
 * [마이크로소프트](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
+* [뱅크샐러드](https://blog.banksalad.com/)
 * [비트윈 VCNC](http://engineering.vcnc.co.kr/)
 * [스포카](https://spoqa.github.io/)
 * [아마존](https://developer.amazon.com/blogs)
