@@ -34,5 +34,6 @@
 * [퍼플웍스](https://subicura.com/)
 * [페이스북](https://engineering.fb.com/)
 * [페이팔](https://medium.com/paypal-engineering)
+* [휴먼스케이프](https://medium.com/humanscape-tech)
 * [JANDI](https://tosslab.github.io/)
 * [NHN](https://meetup.toast.com/)
