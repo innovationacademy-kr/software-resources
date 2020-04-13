@@ -5,6 +5,7 @@
 
 ## 기업-기술블로그 (가나다순)
 
+* [강남언니](https://blog.gangnamunni.com)
 * [구글](https://developers.googleblog.com/)
 * [구글 모바일 Ads](http://googlemobileads.blogspot.com/)
 * [구글 안드로이드](https://developer.android.com/)
