@@ -68,6 +68,7 @@
 | https://118k.tistory.com/category               | #Java, #Python, #빅데이터, #IDE, #DB, #AWS, #알고리즘            |
 | https://ivorycirrus.github.io/                  |                                                              |
 | https://jhleed.tistory.com/176                  |                                                              |
+| https://ji-itstory17.tistory.com/               |                                                              |
 | https://jojoldu.tistory.com/                    |                                                              |
 | https://johngrib.github.io                      |                                                              |
 | https://jusung.github.io/                       |                                                              |
