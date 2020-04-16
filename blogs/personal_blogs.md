@@ -110,7 +110,7 @@
 | https://velog.io/@skyepodium                    |                                                              |
 | https://wckhg89.github.io/                      |                                                              |
 | https://www.holaxprogramming.com                |                                                              |
-| https://www.martinii.fun/.                      |                                                              |
+| https://www.martinii.fun/tag/회사원코딩            |                                                              |
 | https://www.zerocho.com/                        | #DB, #HTML, #CSS, #Javascript, #jQuery, #ECMAScript, #TypeScript, #React, #알고리즘, #git, #MongoDB |
 | https://www.44bits.io/ko                        |                                                              |
 | https://01010011.blog/                          |                                                              |
