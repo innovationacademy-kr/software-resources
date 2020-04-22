@@ -28,6 +28,7 @@
 * [이베이](https://tech.ebayinc.com/)
 * [이음소시어](http://bigmatch.i-um.net/)
 * [인스타그램](https://instagram-engineering.com/)
+* [지앤선 출판사](https://monthly-jiandson.tistory.com/)
 * [카카오](https://tech.kakao.com/)
 * [토스](https://blog.toss.im/)
 * [트위터](https://blog.twitter.com/engineering/en_us.html)
