@@ -47,6 +47,7 @@
 | https://brunch.co.kr/@leedongins.               | #SaaS                                                        |
 | https://brunch.co.kr/magazine/aboutsaas         |                                                              |
 | https://brunch.co.kr/@sangjinkang               |                                                              |
+| https://brunch.co.kr/@synabreu                  |                                                              |
 | https://brunch.co.kr/@thinkaboutlove            |                                                              |
 | https://brunch.co.kr/@thswlsgh                  |                                                              |
 | https://brunch.co.kr/@yhkang0513                |                                                              |
