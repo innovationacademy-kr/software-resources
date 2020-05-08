@@ -1,6 +1,7 @@
 ## 국내, 국외 개발 블로그 모음
 
 * [어썸데브블로그](https://github.com/sarojaba/awesome-devblog)
+* [기업들의 블로그](tech_blogs.md)
 
 ## 개발자 블로그 메일링 리스트 (가입)
 
@@ -105,6 +106,7 @@
 | https://tech.ssut.me/                           |                                                              |
 | https://thinkinginruby.wordpress.com/           |                                                              |
 | https://ujuc.github.io/                         |                                                              |
+| https://umanking.github.io/                     |                                                              |
 | https://velog.io/@bathingape                    |                                                              |
 | https://velog.io/@conatuseus                    |                                                              |
 | https://velog.io/@max9106                       |                                                              |
