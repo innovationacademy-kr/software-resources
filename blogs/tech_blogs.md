@@ -21,6 +21,7 @@
 * [스캐터랩 핑퐁팀](https://blog.pingpong.us/)
 * [스포카](https://spoqa.github.io/)
 * [아마존](https://developer.amazon.com/blogs)
+* [아마존-한국블로그](https://aws.amazon.com/ko/blogs/korea/)
 * [애플](https://developer.apple.com/)
 * [에어비앤비](https://medium.com/airbnb-engineering)
 * [요기요&배달통](https://medium.com/deliverytechkorea)
