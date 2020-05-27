@@ -5,7 +5,8 @@
 
 ## 개인들의 블로그오 블로그 관련 참고글들
 
-* [개인 블로그](personal_blogs.md)
+* [개발자들의 기술 블로그](personal_blogs.md)
+* [이노베이션아카데미 학생들의 학습 블로그](blogs/innoaca_blogs.md)
 
 ## 기업-기술블로그 (가나다순)
 
