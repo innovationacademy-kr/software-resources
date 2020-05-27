@@ -14,9 +14,9 @@
 저작권을 적용하시는 조건입니다.
 
 ## 목차
-* [기업-기술블로그](blogs/tech_blogs.md)
-* [국내, 국외 개발 블로그 모음](blogs/personal_blogs.md)
-* [이노베이션아카데미 학생들의 학습 블로그 모음](blogs/innoaca_blogs.md)
+* [기업-기술 블로그](blogs/tech_blogs.md)
+* [개발자들의 국내, 국외 개발 블로그](blogs/personal_blogs.md)
+* [이노베이션 아카데미 학생들의 학습/기술 블로그](blogs/innoaca_blogs.md)
 * [개발 관련 컨텐츠 모음](contents/dev_contents.md)
 * 커뮤니티
   * [레딧](communities/reddits.md)
