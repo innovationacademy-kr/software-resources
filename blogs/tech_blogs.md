@@ -6,7 +6,7 @@
 ## 개인들의 기술 블로그
 
 * [개발자들의 기술 블로그](personal_blogs.md)
-* [이노베이션아카데미 학생들의 학습 블로그](blogs/innoaca_blogs.md)
+* [이노베이션 아카데미 학생들의 학습/기술 블로그](blogs/innoaca_blogs.md)
 
 ## 기업-기술 블로그 (가나다순)
 
