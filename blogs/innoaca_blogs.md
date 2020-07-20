@@ -20,6 +20,8 @@
 
 ## [이노베이션 아카데미](https://innovationacademy.kr) 개발자들의 블로그
 
+### [이노베이션 아카데미 공식 블로그](https://42place.wordpress.com/)
+
 | 블로그 URL               | 블로그 주인 github repository - 가나다순      |    
 | :---------------------| :------------------------------------------|
 | http://...            | [githubID](https://github.com/githubID)    |
