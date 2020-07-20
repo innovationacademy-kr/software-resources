@@ -1,6 +1,6 @@
 # 개발관련 블로그, 카페 목록
 
-###[이노베이션 아카데미 공식 블로그](https://42place.wordpress.com/)
+### [이노베이션 아카데미 공식 블로그](https://42place.wordpress.com/)
 
 ## 목차
 * [기업-기술 블로그](blogs/tech_blogs.md)
