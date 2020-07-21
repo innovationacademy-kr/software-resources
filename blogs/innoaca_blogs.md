@@ -24,6 +24,6 @@
 
 | 블로그 URL               | 블로그 주인 github repository - 가나다순      |    
 | :---------------------| :------------------------------------------|
-| http://...            | [githubID](https://github.com/githubID)    |
+| https://paikwiki.github.io            | [paikwiki](https://github.com/paikwiki)    |
 
 ** 각자 수정해서 PR 날려주세요.
