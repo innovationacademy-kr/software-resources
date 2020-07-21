@@ -22,8 +22,8 @@
 
 ### [이노베이션 아카데미 공식 블로그](https://42place.wordpress.com/)
 
-| 블로그 URL               | 블로그 주인 github repository - 가나다순      |    
+| 블로그 URL               | 블로그 주인 github repository - 가나다순      |
 | :---------------------| :------------------------------------------|
-| http://...            | [githubID](https://github.com/githubID)    |
+| https://paikwiki.github.io            | [paikwiki](https://github.com/paikwiki)    |
 
 ** 각자 수정해서 PR 날려주세요.
