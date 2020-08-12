@@ -24,10 +24,10 @@
 
 | 블로그 URL               | 블로그 주인 github repository - 가나다순      |
 | :---------------------| :------------------------------------------|
-| https://paikwiki.github.io            | [paikwiki](https://github.com/paikwiki)    |
-| https://velog.io/@yujo | [YUJO42](https://github.com/YUJO42)  |
-| https://velog.io/@sebaek42 | [sebaek42](https://github.com/sebaek42) |
 | https://velog.io/@hidaehyunlee | [hidaehyunlee](https://github.com/hidaehyunlee) |
+| https://paikwiki.github.io            | [paikwiki](https://github.com/paikwiki)    |
+| https://velog.io/@sebaek42 | [sebaek42](https://github.com/sebaek42) |
 | https://velog.io/@secho | [secho](https://github.com/seongsangCHO) |
+| https://velog.io/@yujo | [YUJO42](https://github.com/YUJO42)  |
 
 ** 각자 수정해서 PR 날려주세요.
