@@ -26,5 +26,7 @@
 | :---------------------| :------------------------------------------|
 | https://paikwiki.github.io            | [paikwiki](https://github.com/paikwiki)    |
 | https://velog.io/@yujo | [YUJO42](https://github.com/YUJO42)  |
+| https://velog.io/@sebaek42 | [sebaek42](https://github.com/sebaek42) |
+
 
 ** 각자 수정해서 PR 날려주세요.
