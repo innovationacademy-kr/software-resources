@@ -25,6 +25,7 @@
 | 블로그 URL               | 블로그 주인 github repository - 가나다순      |
 | :---------------------| :------------------------------------------|
 | https://velog.io/@hidaehyunlee | [hidaehyunlee](https://github.com/hidaehyunlee) |
+| https://nadarm.tistory.com | [jko](https://github.com/nadarm)  |
 | https://paikwiki.github.io            | [paikwiki](https://github.com/paikwiki)    |
 | https://velog.io/@sebaek42 | [sebaek42](https://github.com/sebaek42) |
 | https://velog.io/@secho | [secho](https://github.com/seongsangCHO) |
