@@ -27,6 +27,7 @@
 | https://velog.io/@hidaehyunlee | [hidaehyunlee](https://github.com/hidaehyunlee) |
 | https://nadarm.tistory.com | [jko](https://github.com/nadarm)  |
 | https://paikwiki.github.io            | [paikwiki](https://github.com/paikwiki)    |
+| https://velog.io/@cos | [cos18(박성우)](https://github.com/cos18)  |
 | https://velog.io/@sebaek42 | [sebaek42](https://github.com/sebaek42) |
 | https://velog.io/@secho | [secho](https://github.com/seongsangCHO) |
 | https://velog.io/@yujo | [YUJO42](https://github.com/YUJO42)  |
