@@ -32,7 +32,7 @@
 | https://paikwiki.github.io			| [paikwiki](https://github.com/paikwiki)         |
 | https://velog.io/@sebaek42			| [sebaek42](https://github.com/sebaek42)         |
 | https://velog.io/@secho				| [secho](https://github.com/seongsangCHO)        |
-| https://brunch.co.kr/@vivid8222		| [swimjiy](https://github.com/swimjiy)           |
+| https://brunch.co.kr/@swimjiy		| [swimjiy](https://github.com/swimjiy)           |
 | https://velog.io/@yujo				| [YUJO42](https://github.com/YUJO42)             |
 | https://yunslee-42seoul.tistory.com/	| [yunslee](https://github.com/exgs)              |
 | https://lulu-lala0923.tistory.com/	|               |
