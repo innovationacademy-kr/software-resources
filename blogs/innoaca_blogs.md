@@ -39,6 +39,6 @@
 | https://yechoi.tistory.com/			| [yechoi42](https://github.com/yechoi42)		  |
 | https://yohai.tistory.com/			| [yohlee](https://github.com/l-yohai)			  |
 |https://blog.naver.com/minequinto||
-
+|https://stitchcoding.tistory.com/|[pje1740(sohpark)](https://github.com/pje1740)|
 ** 각자 수정해서 PR 날려주세요.
 
