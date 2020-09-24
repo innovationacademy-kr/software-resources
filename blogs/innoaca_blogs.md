@@ -28,6 +28,7 @@
 | https://choidongkyu96.github.io/		| [dochoi](https://github.com/ChoiDongKyu96)      |
 | https://velog.io/@hidaehyunlee		| [hidaehyunlee](https://github.com/hidaehyunlee) |
 | https://onwah.tistory.com/			| [hjeon](https://github.com/jho2301)             |
+| https://lecor.tistory.com/			| [hjung](https://github.com/hysimok)			  |
 | https://nadarm.tistory.com			| [jko](https://github.com/nadarm)                |
 | https://paikwiki.github.io			| [paikwiki](https://github.com/paikwiki)         |
 | https://velog.io/@sebaek42			| [sebaek42](https://github.com/sebaek42)         |
