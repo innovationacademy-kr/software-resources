@@ -22,26 +22,26 @@
 
 ### [이노베이션 아카데미 공식 블로그](https://42place.wordpress.com/)
 
-| 블로그 URL							| 블로그 주인 github repository - 가나다순        |
-| :-----------------------------------	| :---------------------------------------------- |
-| https://velog.io/@cos					| [cos18](https://github.com/cos18)               |
-| https://choidongkyu96.github.io/		| [dochoi](https://github.com/ChoiDongKyu96)      |
-| https://velog.io/@hidaehyunlee		| [hidaehyunlee](https://github.com/hidaehyunlee) |
-| https://onwah.tistory.com/			| [hjeon](https://github.com/jho2301)             |
-| https://lecor.tistory.com/			| [hjung](https://github.com/hysimok)			  |
-| https://nadarm.tistory.com			| [jko](https://github.com/nadarm)                |
-| https://paikwiki.github.io			| [paikwiki](https://github.com/paikwiki)         |
-| https://velog.io/@sebaek42			| [sebaek42](https://github.com/sebaek42)         |
-| https://velog.io/@secho				| [secho](https://github.com/seongsangCHO)        |
-| https://tetramad.github.io      | [sejang](https://github.com/Tetramad)           |
-| https://stitchcoding.tistory.com/|[sohpark](https://github.com/pje1740)|
-| https://brunch.co.kr/@swimjiy		| [swimjiy](https://github.com/swimjiy)           |
-| https://velog.io/@yujo				| [YUJO42](https://github.com/YUJO42)             |
-| https://yunslee-42seoul.tistory.com/	| [yunslee](https://github.com/exgs)              |
-| https://lulu-lala0923.tistory.com/	|               |
-| https://yechoi.tistory.com/			| [yechoi42](https://github.com/yechoi42)		  |
-| https://yohai.tistory.com/			| [yohlee](https://github.com/l-yohai)			  |
-|https://blog.naver.com/minequinto||
+| 블로그 URL                           | 블로그 주인 github repository - 가나다순        |
+| ------------------------------------ | :---------------------------------------------- |
+| https://velog.io/@cos                | [cos18](https://github.com/cos18)               |
+| https://choidongkyu96.github.io/     | [dochoi](https://github.com/ChoiDongKyu96)      |
+| https://velog.io/@hidaehyunlee       | [hidaehyunlee](https://github.com/hidaehyunlee) |
+| https://onwah.tistory.com/           | [hjeon](https://github.com/jho2301)             |
+| https://lecor.tistory.com/           | [hjung](https://github.com/hysimok)             |
+| https://nadarm.tistory.com           | [jko](https://github.com/nadarm)                |
+| https://paikwiki.github.io           | [paikwiki](https://github.com/paikwiki)         |
+| https://velog.io/@sebaek42           | [sebaek42](https://github.com/sebaek42)         |
+| https://velog.io/@secho              | [secho](https://github.com/seongsangCHO)        |
+| https://tetramad.github.io           | [sejang](https://github.com/Tetramad)           |
+| https://stitchcoding.tistory.com/    | [sohpark](https://github.com/pje1740)           |
+| https://brunch.co.kr/@swimjiy        | [swimjiy](https://github.com/swimjiy)           |
+| https://velog.io/@yujo               | [YUJO42](https://github.com/YUJO42)             |
+| https://yunslee-42seoul.tistory.com/ | [yunslee](https://github.com/exgs)              |
+| https://lulu-lala0923.tistory.com/   |                                                 |
+| https://yechoi.tistory.com/          | [yechoi42](https://github.com/yechoi42)         |
+| https://yohai.tistory.com/           | [yohlee](https://github.com/l-yohai)            |
+| https://blog.naver.com/minequinto    |                                                 |
+| http://jaeseokim.github.io/          | [jaeskim](https://github.com/jaeSeoKim)         |
 
 ** 각자 수정해서 PR 날려주세요.
-
