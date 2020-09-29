@@ -35,6 +35,7 @@
 | https://velog.io/@sebaek42           | [sebaek42](https://github.com/sebaek42)         |
 | https://velog.io/@secho              | [secho](https://github.com/seongsangCHO)        |
 | https://tetramad.github.io           | [sejang](https://github.com/Tetramad)           |
+| https://blog.naver.com/ksm_ani       | [seungmki](https://gitlab.com/ksmani0)          |
 | https://stitchcoding.tistory.com/    | [sohpark](https://github.com/pje1740)           |
 | https://brunch.co.kr/@swimjiy        | [swimjiy](https://github.com/swimjiy)           |
 | https://velog.io/@yujo               | [YUJO42](https://github.com/YUJO42)             |
