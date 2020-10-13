@@ -26,6 +26,7 @@
 | ------------------------------------ | :---------------------------------------------- |
 | https://velog.io/@cos                | [cos18](https://github.com/cos18)               |
 | https://choidongkyu96.github.io/     | [dochoi](https://github.com/ChoiDongKyu96)      |
+| https://velog.io/@mkitigy/           | [gim](https://github.com/GwangYeol-Im)          |
 | https://velog.io/@hidaehyunlee       | [hidaehyunlee](https://github.com/hidaehyunlee) |
 | https://onwah.tistory.com/           | [hjeon](https://github.com/jho2301)             |
 | https://lecor.tistory.com/           | [hjung](https://github.com/hysimok)             |
