@@ -38,7 +38,8 @@
 | https://velog.io/@secho              | [secho](https://github.com/seongsangCHO)        |
 | https://tetramad.github.io           | [sejang](https://github.com/Tetramad)           |
 | https://blog.naver.com/ksm_ani       | [seungmki](https://gitlab.com/ksmani0)          |
-| https://stitchcoding.tistory.com/    | [sohpark](https://github.com/pje1740) 
+| https://sewcode.tistory.com/         | [sjeong12](https://github.com/sjeong12)         |
+| https://stitchcoding.tistory.com/    | [sohpark](https://github.com/pje1740)           |
 | https://blog.naver.com/yoagi110      | [sujilee](https://github.com/yoagi110)          |
 | https://brunch.co.kr/@swimjiy        | [swimjiy](https://github.com/swimjiy)           |
 | https://velog.io/@yujo               | [YUJO42](https://github.com/YUJO42)             |
