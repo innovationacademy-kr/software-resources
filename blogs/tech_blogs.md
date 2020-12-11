@@ -16,7 +16,7 @@
 * [구글 안드로이드](https://developer.android.com/)
 * [구글-kr](https://developers-kr.googleblog.com/)
 * [네이버](https://d2.naver.com/home)
-* [넥스클라우드](https://www.nexclipper.io/blog)
+* [넥스클라우드](https://nexclipper.github.io/blog)
 * [넷플릭스](https://medium.com/netflix-techblog)
 * [드롭박스](https://blogs.dropbox.com/tech/)
 * [라인](https://engineering.linecorp.com/ko/blog/)
