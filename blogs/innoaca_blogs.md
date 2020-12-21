@@ -45,6 +45,7 @@
 | https://velog.io/@yujo               | [YUJO42](https://github.com/YUJO42)             |
 | https://yunslee-42seoul.tistory.com/ | [yunslee](https://github.com/exgs)              |
 | https://lulu-lala0923.tistory.com/   |                                                 |
+| https://epicarts.tistory.com/        | [ychoi](https://github.com/epicarts)            |
 | https://yechoi.tistory.com/          | [yechoi42](https://github.com/yechoi42)         |
 | https://yohai.tistory.com/           | [yohlee](https://github.com/l-yohai)            |
 | https://blog.naver.com/minequinto    |                                                 |
