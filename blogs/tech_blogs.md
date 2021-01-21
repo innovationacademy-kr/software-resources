@@ -1,3 +1,5 @@
+## [이노베이션 아카데미 공식 블로그](https://42place.innovationacademy.kr/) <- 클릭
+
 ## 기업 블로그 관련 참고글
 
 * [포스트모템: 스타트업 기술 블로그 모음 by ChangJoo Park님](https://medium.com/@changjoopark/스타트업-기술-블로그-모음을-만들며-da1ba22627f1)
