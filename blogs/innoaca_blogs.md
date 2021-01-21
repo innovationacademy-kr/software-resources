@@ -51,4 +51,4 @@
 | https://blog.naver.com/minequinto    |                                                 |
 
 
-** 각자 수정해서 PR 날려주세요.
+** 각자 수정해서 PR 날려주세요. (ID 가나다 순 지켜주시고.. ) 
