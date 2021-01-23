@@ -31,6 +31,7 @@
 | https://velog.io/@hidaehyunlee       | [hidaehyunlee](https://github.com/hidaehyunlee) |
 | https://onwah.tistory.com/           | [hjeon](https://github.com/jho2301)             |
 | https://lecor.tistory.com/           | [hjung](https://github.com/hysimok)             |
+| https://velog.io/@hyeonski           | [hyeonski](https://velog.io/@hyeonski)          |
 | https://ceuity.tistory.com/          | [hyulee](https://github.com/ceuity)             |
 | https://jaeseokim.github.io/         | [jaeskim](https://github.com/jaeSeoKim)         |
 | https://nadarm.tistory.com           | [jko](https://github.com/nadarm)                |
