@@ -37,4 +37,5 @@
 * [안드로이드 개발자 모임](https://www.facebook.com/groups/2153820728175670/)
 * [컨테이너연구소 - DevOps Korea branch](https://www.facebook.com/groups/ContainersLab/)
 * [Kotlin Korea](https://www.facebook.com/groups/kotlinkr/)
-*  [Math, Machine Learning (Python, R), Big Data (Java VM)](https://www.facebook.com/groups/mathfordatascience/?ref=group_header)
+* [Math, Machine Learning (Python, R), Big Data (Java VM)](https://www.facebook.com/groups/mathfordatascience/?ref=group_header)
+* [Vue.js Korea](https://www.facebook.com/groups/vuejs.korea)
