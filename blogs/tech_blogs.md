@@ -49,3 +49,4 @@
 * [휴먼스케이프](https://medium.com/humanscape-tech)
 * [JANDI](https://tosslab.github.io/)
 * [NHN](https://meetup.toast.com/)
+* [NHN TOAST UI](https://ui.toast.com/weekly-pick/ko)
