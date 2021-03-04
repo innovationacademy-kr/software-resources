@@ -40,6 +40,7 @@
 * [인스타그램](https://instagram-engineering.com/)
 * [지앤선 출판사](https://monthly-jiandson.tistory.com/)
 * [카카오](https://tech.kakao.com/)
+* [코발트](https://blog.cobalt.run/)
 * [토스](https://blog.toss.im/)
 * [트위터](https://blog.twitter.com/engineering/en_us.html)
 * [티몬](https://tmondev.blog.me/)
