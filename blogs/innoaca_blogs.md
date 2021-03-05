@@ -34,6 +34,7 @@
 | https://velog.io/@hyeonski           | [hyeonski](https://velog.io/@hyeonski)          |
 | https://ceuity.tistory.com/          | [hyulee](https://github.com/ceuity)             |
 | https://jaeseokim.github.io/         | [jaeskim](https://github.com/jaeSeoKim)         |
+| https://forhjy.medium.com/           | [jhur](https://github.com/jiyoon1156)           |
 | https://nadarm.tistory.com           | [jko](https://github.com/nadarm)                |
 | https://earthkingman.tistory.com/    | [ji-park](https://github.com/earthkingman)      |
 | https://philgineer.com/              | [junyun](https://github.com/philgineer)         |
