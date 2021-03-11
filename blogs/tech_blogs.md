@@ -26,6 +26,7 @@
 * [마이크로소프트](https://techcommunity.microsoft.com/t5/custom/page/page-id/Blogs)
 * [뱅크샐러드](https://blog.banksalad.com/)
 * [비트윈 VCNC](http://engineering.vcnc.co.kr/)
+* [사람인](https://saramin.github.io/)
 * [스캐터랩 핑퐁팀](https://blog.pingpong.us/)
 * [스포카](https://spoqa.github.io/)
 * [아마존](https://developer.amazon.com/blogs)
