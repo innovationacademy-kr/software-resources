@@ -52,6 +52,7 @@
 * [페이팔](https://medium.com/paypal-engineering)
 * [하이퍼커넥트](https://hyperconnect.github.io/)
 * [휴먼스케이프](https://medium.com/humanscape-tech)
+* [IMQA](https://blog.imqa.io/)
 * [JANDI](https://tosslab.github.io/)
 * [NHN](https://meetup.toast.com/)
 * [NHN TOAST UI](https://ui.toast.com/weekly-pick/ko)
