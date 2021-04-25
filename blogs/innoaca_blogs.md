@@ -41,6 +41,7 @@
 | https://philgineer.com/              | [junyun](https://github.com/philgineer)         |
 | https://kunhee.kim/                  | [kukim](https://github.com/ku-kim)              |
 | https://coding-lks.tistory.com/      | [kwlee](https://github.com/Lks9172)             |
+| https://velog.io/@meong9090          | [mchae](https://github.com/meong99)             |
 | https://paikwiki.github.io           | [paikwiki](https://github.com/paikwiki)         |
 | https://velog.io/@devsh              | [sanghkim](https://github.com/atlanboa)         |
 | https://velog.io/@sebaek42           | [sebaek42](https://github.com/sebaek42)         |
@@ -62,4 +63,4 @@
 | https://hi0seon.tistory.com          | [yoahn](https://hi0seon.tistory.com)            |
 
 
-** 각자 수정해서 PR 날려주세요. (ID 가나다 순 지켜주시고.. ) 
+** 각자 수정해서 PR 날려주세요. (ID 가나다 순 지켜주시고.. )
