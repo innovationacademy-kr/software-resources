@@ -32,13 +32,16 @@
 | https://onwah.tistory.com/           | [hjeon](https://github.com/jho2301)             |
 | https://lecor.tistory.com/           | [hjung](https://github.com/hysimok)             |
 | https://velog.io/@hyeonski           | [hyeonski](https://velog.io/@hyeonski)          |
+| https://hyeyoo.com                   | [hygoni](https://github.com/hygoni)             |
 | https://ceuity.tistory.com/          | [hyulee](https://github.com/ceuity)             |
-| https://jaeseokim.github.io/         | [jaeskim](https://github.com/jaeSeoKim)         |
+| https://jaeseokim.dev/               | [jaeskim](https://github.com/jaeSeoKim)         |
+| https://forhjy.medium.com/           | [jhur](https://github.com/jiyoon1156)           |
 | https://nadarm.tistory.com           | [jko](https://github.com/nadarm)                |
 | https://earthkingman.tistory.com/    | [ji-park](https://github.com/earthkingman)      |
 | https://philgineer.com/              | [junyun](https://github.com/philgineer)         |
 | https://kunhee.kim/                  | [kukim](https://github.com/ku-kim)              |
 | https://coding-lks.tistory.com/      | [kwlee](https://github.com/Lks9172)             |
+| https://velog.io/@meong9090          | [mchae](https://github.com/meong99)             |
 | https://paikwiki.github.io           | [paikwiki](https://github.com/paikwiki)         |
 | https://velog.io/@devsh              | [sanghkim](https://github.com/atlanboa)         |
 | https://velog.io/@sebaek42           | [sebaek42](https://github.com/sebaek42)         |
@@ -60,4 +63,4 @@
 | https://hi0seon.tistory.com          | [yoahn](https://hi0seon.tistory.com)            |
 
 
-** 각자 수정해서 PR 날려주세요. (ID 가나다 순 지켜주시고.. ) 
+** 각자 수정해서 PR 날려주세요. (ID 가나다 순 지켜주시고.. )
