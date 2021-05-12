@@ -45,6 +45,7 @@
 * [코발트](https://blog.cobalt.run/)
 * [쿠팡](https://medium.com/coupang-tech)
 * [토스](https://blog.toss.im/)
+* [토스-테크](https://toss.tech/)
 * [트위터](https://blog.twitter.com/engineering/en_us.html)
 * [티몬](https://tmondev.blog.me/)
 * [퍼플웍스](https://subicura.com/)
