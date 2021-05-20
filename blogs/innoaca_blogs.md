@@ -63,4 +63,4 @@
 | https://hi0seon.tistory.com          | [yoahn](https://hi0seon.tistory.com)            |
 
 
-** 각자 수정해서 PR 날려주세요. (ID 가나다 순 지켜주시고.. )
+** 각자 수정해서 PR 날려주세요. (ID 알파벳 순 지켜주시고.. )
