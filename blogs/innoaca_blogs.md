@@ -22,6 +22,8 @@
 
 ## [이노베이션 아카데미](https://innovationacademy.kr) 개발자들의 블로그
 
+* [이노베이션 아카데미 사람들 인터뷰](https://humansof42.com)
+
 | 블로그 URL                           | 블로그 주인 github repository - 가나다순        |
 | ------------------------------------ | :---------------------------------------------- |
 | https://velog.io/@cos                | [cos18](https://github.com/cos18)               |
