@@ -8,9 +8,10 @@
 
 ## 개발자 블로그 메일링 리스트 (가입)
 
-* [기술블로그 메일링 리스트](http://kyungyeon.me/subscribe)
+* [GeekNews Weekely(강추)](https://news.hada.io/weekly)
 * [(기술블로그는 아니지만) 옆동네인 스타트업 뉴스레터, 스타트업 위클리](http://glance.media/subscription/subscribe)
 * [월간 개발자스럽다](https://blog.gaerae.com)
+* [기술블로그 메일링 리스트](http://kyungyeon.me/subscribe)
 
 ## 블로그 관련 참고글
 

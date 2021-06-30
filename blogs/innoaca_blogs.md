@@ -22,6 +22,8 @@
 
 ## [이노베이션 아카데미](https://innovationacademy.kr) 개발자들의 블로그
 
+* [이노베이션 아카데미 사람들 인터뷰](https://humansof42.com)
+
 | 블로그 URL                           | 블로그 주인 github repository - 가나다순        |
 | ------------------------------------ | :---------------------------------------------- |
 | https://velog.io/@cos                | [cos18](https://github.com/cos18)               |
@@ -31,6 +33,7 @@
 | https://gwpaeng.tistory.com/         | [gpaeng](https://gwpaeng.tistory.com/)          |
 | https://onwah.tistory.com/           | [hjeon](https://github.com/jho2301)             |
 | https://lecor.tistory.com/           | [hjung](https://github.com/hysimok)             |
+| https://egas.tistory.com/            | [holee](https://github.com/hochan222)           |
 | https://velog.io/@hyeonski           | [hyeonski](https://velog.io/@hyeonski)          |
 | https://hyeyoo.com                   | [hygoni](https://github.com/hygoni)             |
 | https://ceuity.tistory.com/          | [hyulee](https://github.com/ceuity)             |
@@ -51,6 +54,7 @@
 | https://sewcode.tistory.com/         | [sjeong12](https://github.com/sjeong12)         |
 | https://stitchcoding.tistory.com/    | [sohpark](https://github.com/pje1740)           |
 | https://blog.naver.com/yoagi110      | [sujilee](https://github.com/yoagi110)          |
+| https://blog.naver.com/jsg2804       | [sunhkim](https://github.com/mocha-kim)         |
 | https://brunch.co.kr/@swimjiy        | [swimjiy](https://github.com/swimjiy)           |
 | https://wonillism.tistory.com        | [wopark](https://github.com/WONILLISM)          |
 | https://velog.io/@yujo               | [YUJO42](https://github.com/YUJO42)             |

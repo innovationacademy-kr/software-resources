@@ -57,3 +57,4 @@
 * [JANDI](https://tosslab.github.io/)
 * [NHN](https://meetup.toast.com/)
 * [NHN TOAST UI](https://ui.toast.com/weekly-pick/ko)
+* [SK 그룹](https://devocean.sk.com)
