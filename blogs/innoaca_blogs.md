@@ -24,7 +24,7 @@
 
 * [이노베이션 아카데미 사람들 인터뷰](https://humansof42.com)
 
-| 블로그 URL                           | 블로그 주인 github repository - 가나다순        |
+| 블로그 URL                           | 블로그 주인 github repository - 알파벳순        |
 | ------------------------------------ | :---------------------------------------------- |
 | https://velog.io/@cos                | [cos18](https://github.com/cos18)               |
 | https://velog.io/@hidaehyunlee       | [daelee](https://github.com/hidaehyunlee)       |
