@@ -26,3 +26,4 @@
 * [springcamp.io](https://www.youtube.com/channel/UCj5gqpKTDDxsXqceYwn1Feg)
 * [Kenu Heo](https://www.youtube.com/channel/UCHbXBo1fQAg7j0D7HKKYHJg)
 * [JIHUN KIM](https://www.youtube.com/channel/UCID9irVXdprEARXI8S8FRbg)
+* [노마드 코더](https://www.youtube.com/c/노마드코더NomadCoders)
