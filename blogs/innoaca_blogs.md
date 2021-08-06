@@ -24,11 +24,12 @@
 
 * [이노베이션 아카데미 사람들 인터뷰](https://humansof42.com)
 
-| 블로그 URL                           | 블로그 주인 github repository - 가나다순        |
+| 블로그 URL                           | 블로그 주인 github repository - 알파벳순        |
 | ------------------------------------ | :---------------------------------------------- |
 | https://velog.io/@cos                | [cos18](https://github.com/cos18)               |
 | https://velog.io/@hidaehyunlee       | [daelee](https://github.com/hidaehyunlee)       |
 | https://choidongkyu96.github.io/     | [dochoi](https://github.com/ChoiDongKyu96)      |
+| https://velog.io/@dom_hxrdy          | [donglee](https://github.com/DomMorello)        |
 | https://gilee.kr                     | [gilee](https://github.com/weg901127)           |
 | https://velog.io/@mkitigy/           | [gim](https://github.com/GwangYeol-Im)          |
 | https://gwpaeng.tistory.com/         | [gpaeng](https://gwpaeng.tistory.com/)          |
