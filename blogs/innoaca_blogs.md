@@ -24,7 +24,7 @@
 
 * [이노베이션 아카데미 사람들 인터뷰](https://humansof42.com)
 
-| 블로그 URL                           | 블로그 주인 github repository - 가나다순        |
+| 블로그 URL                           | 블로그 주인 github repository - 알파벳순        |
 | ------------------------------------ | :---------------------------------------------- |
 | https://velog.io/@cos                | [cos18](https://github.com/cos18)               |
 | https://velog.io/@hidaehyunlee       | [daelee](https://github.com/hidaehyunlee)       |
@@ -47,6 +47,7 @@
 | https://velog.io/@meong9090          | [mchae](https://github.com/meong99)             |
 | https://paikwiki.github.io           | [paikwiki](https://github.com/paikwiki)         |
 | https://velog.io/@devsh              | [sanghkim](https://github.com/atlanboa)         |
+| https://blog.srngch.com/             | [sarchoi](https://github.com/srngch)            |
 | https://velog.io/@sebaek42           | [sebaek42](https://github.com/sebaek42)         |
 | https://velog.io/@secho              | [secho](https://github.com/seongsangCHO)        |
 | https://tetramad.github.io           | [sejang](https://github.com/Tetramad)           |

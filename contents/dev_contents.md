@@ -1,6 +1,7 @@
 ## 개발 관련 컨텐츠 모음
 
 * [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
+* [개발 여행을 처음하는 분들을 위한 히치하이커 가이드](https://github.com/innovationacademy-kr/hitchhikers_guide)
 
 ### 팟캐스트
 
