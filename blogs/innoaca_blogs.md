@@ -53,6 +53,7 @@
 | https://velog.io/@sebaek42           | [sebaek42](https://github.com/sebaek42)         |
 | https://velog.io/@secho              | [secho](https://github.com/seongsangCHO)        |
 | https://tetramad.github.io           | [sejang](https://github.com/Tetramad)           |
+| https://michellejin12.github.io/blog/| [sejin](https://michellejin12.github.io/blog/)  |
 | https://blog.naver.com/ksm_ani       | [seungmki](https://gitlab.com/ksmani0)          |
 | https://sewcode.tistory.com/         | [sjeong12](https://github.com/sjeong12)         |
 | https://stitchcoding.tistory.com/    | [sohpark](https://github.com/pje1740)           |
