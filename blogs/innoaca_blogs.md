@@ -47,6 +47,7 @@
 | https://velog.io/@meong9090          | [mchae](https://github.com/meong99)             |
 | https://paikwiki.github.io           | [paikwiki](https://github.com/paikwiki)         |
 | https://velog.io/@devsh              | [sanghkim](https://github.com/atlanboa)         |
+| https://blog.srngch.com/             | sarchoi                                         |
 | https://velog.io/@sebaek42           | [sebaek42](https://github.com/sebaek42)         |
 | https://velog.io/@secho              | [secho](https://github.com/seongsangCHO)        |
 | https://tetramad.github.io           | [sejang](https://github.com/Tetramad)           |
