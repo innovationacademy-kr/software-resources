@@ -28,6 +28,7 @@
 | ------------------------------------ | :---------------------------------------------- |
 | https://velog.io/@cos                | [cos18](https://github.com/cos18)               |
 | https://velog.io/@hidaehyunlee       | [daelee](https://github.com/hidaehyunlee)       |
+| https://velog.io/@du0928             | [djeon](https://github.com/Daewoong-Jeon)       |
 | https://choidongkyu96.github.io/     | [dochoi](https://github.com/ChoiDongKyu96)      |
 | https://velog.io/@dom_hxrdy          | [donglee](https://github.com/DomMorello)        |
 | https://gilee.kr                     | [gilee](https://github.com/weg901127)           |
