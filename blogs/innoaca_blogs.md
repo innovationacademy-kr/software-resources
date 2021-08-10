@@ -37,7 +37,7 @@
 | https://onwah.tistory.com/           | [hjeon](https://github.com/jho2301)             |
 | https://lecor.tistory.com/           | [hjung](https://github.com/hysimok)             |
 | https://egas.tistory.com/            | [holee](https://github.com/hochan222)           |
-| https://hyeonski.tistory.com/        | [hyeonski](https://hyeonski.tistory.com/)       |
+| https://hyeonski.tistory.com/        | [hyeonski](https://github.com/hyeonski)         |
 | https://hyeyoo.com                   | [hygoni](https://github.com/hygoni)             |
 | https://ceuity.tistory.com/          | [hyulee](https://github.com/ceuity)             |
 | https://jaeseokim.dev/               | [jaeskim](https://github.com/jaeSeoKim)         |
