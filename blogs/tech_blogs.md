@@ -36,6 +36,7 @@
 * [에어비앤비](https://medium.com/airbnb-engineering)
 * [요기요&배달통](https://medium.com/deliverytechkorea)
 * [우아한형제들](http://woowabros.github.io/)
+* [위시켓](https://yozm.wishket.com/magazine/)
 * [이노베이션 아카데미 (42 Seoul)](https://42place.innovationacademy.kr/)
 * [이베이](https://tech.ebayinc.com/)
 * [이음소시어](http://bigmatch.i-um.net/)
