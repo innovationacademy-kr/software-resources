@@ -2,6 +2,7 @@
 
 * [고퀄리티 개발 컨텐츠 모음](https://github.com/Integerous/goQuality-dev-contents)
 * [개발 여행을 처음하는 분들을 위한 히치하이커 가이드](https://github.com/innovationacademy-kr/hitchhikers_guide)
+* [Knowre의 신입 웹 개발자 교육을 위한 웹 개발 교육 커리큘럼](https://github.com/Knowre-Dev/WebDevCurriculum)
 
 ### 팟캐스트
 
