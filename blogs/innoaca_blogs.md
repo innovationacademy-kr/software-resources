@@ -31,6 +31,7 @@
 | https://velog.io/@hidaehyunlee       | [daelee](https://github.com/hidaehyunlee)       |
 | https://velog.io/@du0928             | [djeon](https://github.com/Daewoong-Jeon)       |
 | https://choidongkyu96.github.io/     | [dochoi](https://github.com/ChoiDongKyu96)      |
+| https://urakasumi.tistory.com/       | [dohyulee](https://github.com/Soksurim)         |
 | https://velog.io/@dom_hxrdy          | [donglee](https://github.com/DomMorello)        |
 | https://gilee.kr                     | [gilee](https://github.com/weg901127)           |
 | https://velog.io/@mkitigy/           | [gim](https://github.com/GwangYeol-Im)          |
