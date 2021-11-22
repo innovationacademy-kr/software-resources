@@ -26,6 +26,7 @@
 
 | 블로그 URL                           | 블로그 주인 github repository - 알파벳순        |
 | ------------------------------------ | :---------------------------------------------- |
+| https://velog.io/@kby9906            | [byukim](https://github.com/AndroidNetrunner)   |
 | https://velog.io/@cos                | [cos18](https://github.com/cos18)               |
 | https://velog.io/@hidaehyunlee       | [daelee](https://github.com/hidaehyunlee)       |
 | https://velog.io/@du0928             | [djeon](https://github.com/Daewoong-Jeon)       |
