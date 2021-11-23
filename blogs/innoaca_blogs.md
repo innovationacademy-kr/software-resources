@@ -61,6 +61,7 @@
 | https://michellejin12.github.io/blog/| [sejin](https://michellejin12.github.io/blog/)  |
 | https://blog.naver.com/ksm_ani       | [seungmki](https://gitlab.com/ksmani0)          |
 | https://sewcode.tistory.com/         | [sjeong12](https://github.com/sjeong12)         |
+| https://velog.io/@jaranda            | [sku](https://github.com/ksks723)               |
 | https://stitchcoding.tistory.com/    | [sohpark](https://github.com/pje1740)           |
 | https://blog.naver.com/yoagi110      | [sujilee](https://github.com/yoagi110)          |
 | https://blog.naver.com/jsg2804       | [sunhkim](https://github.com/mocha-kim)         |
