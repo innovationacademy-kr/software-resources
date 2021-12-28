@@ -72,6 +72,7 @@
 | https://lulu-lala0923.tistory.com/   |                                                 |
 | https://epicarts.tistory.com/        | [ychoi](https://github.com/epicarts)            |
 | https://yechoi.tistory.com/          | [yechoi42](https://github.com/yechoi42)         |
+| https://yeslee-v.medium.com/         | [yeslee](https://github.com/yeslee-v)			 |
 | https://yohai.tistory.com/           | [yohlee](https://github.com/l-yohai)            |
 | https://blog.naver.com/minequinto    |                                                 |
 | https://hi0seon.tistory.com          | [yoahn](https://hi0seon.tistory.com)            |
