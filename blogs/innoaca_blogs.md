@@ -49,8 +49,9 @@
 | https://jaeseokim.dev/               | [jaeskim](https://github.com/jaeSeoKim)         |
 | https://ai-hong.tistory.com          | [jeohong](https://ai-hong.tistory.com)          |
 | https://forhjy.medium.com/           | [jhur](https://github.com/jiyoon1156)           |
-| https://nadarm.tistory.com           | [jko](https://github.com/nadarm)                |
 | https://earthkingman.tistory.com/    | [ji-park](https://github.com/earthkingman)      |
+| https://bigpel66.oopy.io/            | [jseo](https://github.com/bigpel66)             |
+| https://nadarm.tistory.com           | [jko](https://github.com/nadarm)                |
 | https://philgineer.com/              | [junyun](https://github.com/philgineer)         |
 | https://kunhee.kim/                  | [kukim](https://github.com/ku-kim)              |
 | https://coding-lks.tistory.com/      | [kwlee](https://github.com/Lks9172)             |
