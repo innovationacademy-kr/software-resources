@@ -30,6 +30,7 @@
 * [뱅크샐러드](https://blog.banksalad.com/)
 * [비트윈 VCNC](http://engineering.vcnc.co.kr/)
 * [사람인](https://saramin.github.io/)
+* [사이냅소프트](https://www.synapsoft.co.kr/dev-story/)
 * [스캐터랩 핑퐁팀](https://blog.pingpong.us/)
 * [스포카](https://spoqa.github.io/)
 * [아마존](https://developer.amazon.com/blogs)
