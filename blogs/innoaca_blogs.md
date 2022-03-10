@@ -47,6 +47,7 @@
 | https://hyeonski.tistory.com/        | [hyeonski](https://github.com/hyeonski)         |
 | https://hyeyoo.com                   | [hygoni](https://github.com/hygoni)             |
 | https://ceuity.tistory.com/          | [hyulee](https://github.com/ceuity)             |
+| https://velog.io/@therealjamesjung   | [jaekjung](https://github.com/therealjamesjung) |
 | https://jaeseokim.dev/               | [jaeskim](https://github.com/jaeSeoKim)         |
 | https://ai-hong.tistory.com          | [jeohong](https://ai-hong.tistory.com)          |
 | https://forhjy.medium.com/           | [jhur](https://github.com/jiyoon1156)           |
