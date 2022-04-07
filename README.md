@@ -15,7 +15,7 @@
   * [팟방-개발자(검색)](http://www.podbbang.com/search?keyword=개발자)
   * [유튜브-개발자(검색)](https://www.youtube.com/results?search_query=개발자)
 * 참고용 개발자 모집공고 사례
-  * [노션기반 국내 HR 페이지 사례](https://www.notion.so/haloswpark/HR-a3065577c737488396045323bb2c3bec_)
+  * [노션기반 국내 HR 페이지 사례](https://www.notion.so/haloswpark/HR-a3065577c737488396045323bb2c3bec)
   
 ### 이 사이트 내용 수정
 
