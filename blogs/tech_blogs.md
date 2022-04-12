@@ -46,6 +46,7 @@
 * [인스타그램](https://instagram-engineering.com/)
 * [지앤선 출판사](https://monthly-jiandson.tistory.com/)
 * [카카오](https://tech.kakao.com/)
+* [카카오 엔터프라이즈](https://tech.kakaoenterprise.com/)
 * [코발트](https://blog.cobalt.run/)
 * [쿠팡](https://medium.com/coupang-tech)
 * [토스](https://blog.toss.im/)
