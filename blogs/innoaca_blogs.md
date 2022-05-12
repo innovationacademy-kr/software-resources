@@ -2,7 +2,7 @@
 
 ## 국내, 국외 개발 블로그 모음
 
-* [어썸데브블로그](https://github.com/sarojaba/awesome-devblog)
+* [어썸데브블로그](https://github.com/awesome-devblog/awesome-devblog)
 * [기업들의 기술 블로그](tech_blogs.md)
 * [개발자들의 기술 블로그](personal_blogs.md)
 
