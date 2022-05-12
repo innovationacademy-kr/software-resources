@@ -4,7 +4,7 @@
 
 * [어썸데브블로그](https://github.com/sarojaba/awesome-devblog)
 * [기업들의 기술 블로그](tech_blogs.md)
-* [이노베이션아카데미 학생들의 학습/기술 블로그](blogs/innoaca_blogs.md)
+* [이노베이션아카데미 학생들의 학습/기술 블로그](innoaca_blogs.md)
 
 ## 개발자 블로그 메일링 리스트 (가입)
 
