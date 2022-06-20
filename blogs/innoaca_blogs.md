@@ -25,7 +25,7 @@
 * [이노베이션 아카데미 사람들 인터뷰](https://humansof42.com)
 * [팔만코딩경](https://80000coding.oopy.io)
 
-| 블로그 URL                           | 블로그 주인 github repository - 알파벳순        | 소개멘트 |
+| 블로그 URL                           | 블로그 주인 Github Profile - 알파벳순        | 소개멘트 |
 | ------------------------------------ | :---------------------------------------------- | -----------|
 | https://velog.io/@kby9906            | [byukim](https://github.com/AndroidNetrunner)   | 도전하는 삶 |
 | https://velog.io/@cos                | [cos18](https://github.com/cos18)               | 잡다한거 하는 개발자|
@@ -68,7 +68,6 @@
 | https://tetramad.github.io           | [sejang](https://github.com/Tetramad)           ||
 | https://michellejin12.github.io/blog/| [sejin](https://michellejin12.github.io/blog/)  ||
 | https://blog.naver.com/ksm_ani       | [seungmki](https://gitlab.com/ksmani0)          ||
-| https://velog.io/@siontama           | [sikang](https://github.com/Yaminyam)           ||
 | https://sewcode.tistory.com/         | [sjeong12](https://github.com/sjeong12)         ||
 | https://velog.io/@jaranda            | [sku](https://github.com/ksks723)               ||
 | https://velog.io/@seungju0000        | [slee2](https://github.com/Lee-seungju)         ||
@@ -83,7 +82,7 @@
 | https://lulu-lala0923.tistory.com/   |                                                 ||
 | https://epicarts.tistory.com/        | [ychoi](https://github.com/epicarts)            ||
 | https://yechoi.tistory.com/          | [yechoi42](https://github.com/yechoi42)         ||
-| https://yeslee-v.medium.com/         | [yeslee](https://github.com/yeslee-v)           ||
+| https://yeslee-v.medium.com/         | [yeslee](https://github.com/yeslee-v)			 ||
 | https://yohai.tistory.com/           | [yohlee](https://github.com/l-yohai)            ||
 | https://blog.naver.com/minequinto    |                                                 ||
 | https://hi0seon.tistory.com          | [yoahn](https://hi0seon.tistory.com)            ||
