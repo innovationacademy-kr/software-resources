@@ -25,67 +25,67 @@
 * [이노베이션 아카데미 사람들 인터뷰](https://humansof42.com)
 * [팔만코딩경](https://80000coding.oopy.io)
 
-| 블로그 URL                           | Github Profile - Github-ID 알파벳순        | 소개멘트 |
-| ------------------------------------ | :---------------------------------------------- | -----------|
-| https://velog.io/@kby9906            | [byukim](https://github.com/AndroidNetrunner)   | 도전하는 삶 |
-| https://velog.io/@cos                | [cos18](https://github.com/cos18)               | 잡다한거 하는 개발자|
-| https://velog.io/@hidaehyunlee       | [daelee](https://github.com/hidaehyunlee)       | 삽질의 기록들|
-| https://velog.io/@du0928             | [djeon](https://github.com/Daewoong-Jeon)       ||
-| https://choidongkyu96.github.io/     | [dochoi](https://github.com/ChoiDongKyu96)      | 소소한 코딩모음|
-| https://urakasumi.tistory.com/       | [dohyulee](https://github.com/Soksurim)         ||
-| https://velog.io/@dom_hxrdy          | [donglee](https://github.com/DomMorello)        ||
-| https://gilee.kr                     | [gilee](https://github.com/weg901127)           ||
-| https://velog.io/@mkitigy/           | [gim](https://github.com/GwangYeol-Im)          ||
-| https://gwpaeng.tistory.com/         | [gpaeng](https://gwpaeng.tistory.com/)          ||
-| https://caputdraconis.tistory.com/   | [guntkim](https://caputdraconis.tistory.com/)   ||
-| https://velog.io/@hekang             | [hekang](https://github.com/hekang42)           ||
-| https://onwah.tistory.com/           | [hjeon](https://github.com/jho2301)             ||
-| https://lecor.tistory.com/           | [hjung](https://github.com/hysimok)             ||
-| https://codinggorani.tistory.com     | [hnoh](https://codinggorani.tistory.com)        ||
-| https://egas.tistory.com/            | [holee](https://github.com/hochan222)           ||
-| https://blog.naver.com/hyeonjun7     | [hyeonpar](https://github.com/c2lv)             ||
-| https://hyeonski.tistory.com/        | [hyeonski](https://github.com/hyeonski)         ||
-| https://hyeyoo.com                   | [hygoni](https://github.com/hygoni)             ||
-| https://ceuity.tistory.com/          | [hyulee](https://github.com/ceuity)             ||
-| https://velog.io/@therealjamesjung   | [jaekjung](https://github.com/therealjamesjung) ||
-| https://jaeseokim.dev/               | [jaeskim](https://github.com/jaeSeoKim)         ||
-| https://ai-hong.tistory.com          | [jeohong](https://ai-hong.tistory.com)          ||
-| https://forhjy.medium.com/           | [jhur](https://github.com/jiyoon1156)           ||
-| https://earthkingman.tistory.com/    | [ji-park](https://github.com/earthkingman)      ||
-| https://bigpel66.oopy.io/            | [jseo](https://github.com/bigpel66)             ||
-| https://nadarm.tistory.com           | [jko](https://github.com/nadarm)                ||
-| https://juepark.com/                 | [juepark](https://github.com/humonnom)          ||
-| https://philgineer.com/              | [junyun](https://github.com/philgineer)         ||
-| https://kunhee.kim/                  | [kukim](https://github.com/ku-kim)              ||
-| https://coding-lks.tistory.com/      | [kwlee](https://github.com/Lks9172)             ||
-| https://velog.io/@meong9090          | [mchae](https://github.com/meong99)             ||
-| https://tre2man.tistory.com/         | [namwkim](https://github.com/tre2man)           ||
-| https://paikwiki.github.io           | [paikwiki](https://github.com/paikwiki)         ||
-| https://velog.io/@devsh              | [sanghkim](https://github.com/atlanboa)         ||
-| https://blog.srngch.com/             | [sarchoi](https://github.com/srngch)            ||
-| https://velog.io/@sebaek42           | [sebaek42](https://github.com/sebaek42)         ||
-| https://velog.io/@secho              | [secho](https://github.com/seongsangCHO)        ||
-| https://tetramad.github.io           | [sejang](https://github.com/Tetramad)           ||
-| https://michellejin12.github.io/blog/| [sejin](https://michellejin12.github.io/blog/)  ||
-| https://blog.naver.com/ksm_ani       | [seungmki](https://gitlab.com/ksmani0)          ||
-| https://sewcode.tistory.com/         | [sjeong12](https://github.com/sjeong12)         ||
-| https://velog.io/@jaranda            | [sku](https://github.com/ksks723)               ||
-| https://velog.io/@seungju0000        | [slee2](https://github.com/Lee-seungju)         ||
-| https://stitchcoding.tistory.com/    | [sohpark](https://github.com/pje1740)           ||
-| https://blog.naver.com/yoagi110      | [sujilee](https://github.com/yoagi110)          ||
-| https://blog.naver.com/jsg2804       | [sunhkim](https://github.com/mocha-kim)         ||
-| https://brunch.co.kr/@swimjiy        | [swimjiy](https://github.com/swimjiy)           ||
-| https://wonillism.tistory.com        | [wopark](https://github.com/WONILLISM)          ||
-| https://velog.io/@yujo               | [YUJO42](https://github.com/YUJO42)             ||
-| https://eeeuns.github.io/            | [yunselee](https://github.com/EeeUnS)           ||
-| https://yunslee-42seoul.tistory.com/ | [yunslee](https://github.com/exgs)              ||
-| https://lulu-lala0923.tistory.com/   |                                                 ||
-| https://epicarts.tistory.com/        | [ychoi](https://github.com/epicarts)            ||
-| https://yechoi.tistory.com/          | [yechoi42](https://github.com/yechoi42)         ||
-| https://yeslee-v.medium.com/         | [yeslee](https://github.com/yeslee-v)			 ||
-| https://yohai.tistory.com/           | [yohlee](https://github.com/l-yohai)            ||
-| https://blog.naver.com/minequinto    |                                                 ||
-| https://hi0seon.tistory.com          | [yoahn](https://hi0seon.tistory.com)            ||
+| 블로그 URL                                 | Github Profile - Github-ID 알파벳순                             | 소개멘트          |
+|-----------------------------------------|:------------------------------------------------------------|---------------|
+| 	https://velog.io/@kby9906	             | 	[AndroidNetrunner](https://github.com/AndroidNetrunner)	   | 	도전하는 삶	      |
+| 	https://velog.io/@devsh	               | 	[atlanboa](https://github.com/atlanboa)	                   | 		            |
+| 	https://bigpel66.oopy.io/	             | 	[bigpel66](https://github.com/bigpel66)	                   | 		            |
+| 	https://blog.naver.com/hyeonjun7	      | 	[c2lv](https://github.com/c2lv)	                           | 		            |
+| 	https://ceuity.tistory.com/	           | 	[ceuity](https://github.com/ceuity)	                       | 		            |
+| 	https://choidongkyu96.github.io/	      | 	[ChoiDongKyu96](https://github.com/ChoiDongKyu96)	         | 	소소한 코딩모음	    |
+| 	https://velog.io/@cos	                 | 	[	cos18	](https://github.com/cos18)	                       | 	잡다한거 하는 개발자	 |
+| 	https://velog.io/@du0928	              | 	[	Daewoong-Jeon	](https://github.com/Daewoong-Jeon)	       | 		            |
+| 	https://velog.io/@dom_hxrdy	           | 	[	DomMorello	](https://github.com/DomMorello)	             | 		            |
+| 	https://earthkingman.tistory.com/	     | 	[	earthkingman	](https://github.com/earthkingman)	         | 		            |
+| 	https://eeeuns.github.io/	             | 	[	EeeUnS	](https://github.com/EeeUnS)	                     | 		            |
+| 	https://epicarts.tistory.com/	         | 	[	epicarts	](https://github.com/epicarts)	                 | 		            |
+| 	https://yunslee-42seoul.tistory.com/	  | 	[	exgs	](https://github.com/exgs)	                         | 		            |
+| 	https://velog.io/@mkitigy/	            | 	[	GwangYeol-Im	](https://github.com/GwangYeol-Im)	         | 		            |
+| 	https://velog.io/@hekang	              | 	[	hekang42	](https://github.com/hekang42)	                 | 		            |
+| 	https://velog.io/@hidaehyunlee	        | 	[	hidaehyunlee	](https://github.com/hidaehyunlee)	         | 	삽질의 기록들	     |
+| 	https://egas.tistory.com/	             | 	[	hochan222	](https://github.com/hochan222)	               | 		            |
+| 	https://juepark.com/	                  | 	[	humonnom	](https://github.com/humonnom)	                 | 		            |
+| 	https://hyeonski.tistory.com/	         | 	[	hyeonski	](https://github.com/hyeonski)	                 | 		            |
+| 	https://hyeyoo.com	                    | 	[	hygoni	](https://github.com/hygoni)	                     | 		            |
+| 	https://lecor.tistory.com/	            | 	[	hysimok	](https://github.com/hysimok)	                   | 		            |
+| 	https://jaeseokim.dev/	                | 	[	JaeSeoKim	](https://github.com/jaeSeoKim)	               | 		            |
+| 	https://onwah.tistory.com/	            | 	[	jho2301	](https://github.com/jho2301)	                   | 		            |
+| 	https://forhjy.medium.com/	            | 	[	jiyoon1156	](https://github.com/jiyoon1156)	             | 		            |
+| 	https://velog.io/@jaranda	             | 	[	ksks723	](https://github.com/ksks723)	                   | 		            |
+| 	https://blog.naver.com/ksm_ani	        | 	[	ksmani0	](https://gitlab.com/ksmani0)	                   | 		            |
+| 	https://kunhee.kim/	                   | 	[	ku-kim	](https://github.com/ku-kim)	                     | 		            |
+| 	https://yohai.tistory.com/	            | 	[	l-yohai	](https://github.com/l-yohai)	                   | 		            |
+| 	https://velog.io/@seungju0000	         | 	[	Lee-seungju	](https://github.com/Lee-seungju)	           | 		            |
+| 	https://coding-lks.tistory.com/	       | 	[	Lks9172	](https://github.com/Lks9172)	                   | 		            |
+| 	https://velog.io/@meong9090	           | 	[	meong99	](https://github.com/meong99)	                   | 		            |
+| 	https://blog.naver.com/jsg2804	        | 	[	mocha-kim	](https://github.com/mocha-kim)	               | 		            |
+| 	https://paikwiki.github.io	            | 	[	paikwiki	](https://github.com/paikwiki)	                 | 		            |
+| 	https://philgineer.com/	               | 	[	philgineer	](https://github.com/philgineer)	             | 		            |
+| 	https://stitchcoding.tistory.com/	     | 	[	pje1740	](https://github.com/pje1740)	                   | 		            |
+| 	https://velog.io/@sebaek42	            | 	[	sebaek42	](https://github.com/sebaek42)	                 | 		            |
+| 	https://velog.io/@secho	               | 	[	SeongsangCHO	](https://github.com/seongsangCHO)	         | 		            |
+| 	https://sewcode.tistory.com/	          | 	[	sjeong12	](https://github.com/sjeong12)	                 | 		            |
+| 	https://blog.srngch.com/	              | 	[	srngch	](https://github.com/srngch)	                     | 		            |
+| 	https://brunch.co.kr/@swimjiy	         | 	[	swimjiy	](https://github.com/swimjiy)	                   | 		            |
+| 	https://tetramad.github.io	            | 	[	Tetramad	](https://github.com/Tetramad)	                 | 		            |
+| 	https://velog.io/@therealjamesjung	    | 	[	therealjamesjung	](https://github.com/therealjamesjung)	 | 		            |
+| 	https://tre2man.tistory.com/	          | 	[	tre2man	](https://github.com/tre2man)	                   | 		            |
+| 	https://gilee.kr	                      | 	[	weg901127	](https://github.com/weg901127)	               | 		            |
+| 	https://wonillism.tistory.com	         | 	[	WONILLISM	](https://github.com/WONILLISM)	               | 		            |
+| 	https://yechoi.tistory.com/	           | 	[	yechoi42	](https://github.com/yechoi42)	                 | 		            |
+| 	https://yeslee-v.medium.com/	          | 	[	yeslee-v	](https://github.com/yeslee-v)	                 | 		            |
+| 	https://velog.io/@yujo	                | 	[	YUJO42	](https://github.com/YUJO42)	                     | 		            |
+| 	https://urakasumi.tistory.com/	        | 	[		] (https://github.com/Soksurim)	                        | 		            |
+| 	https://gwpaeng.tistory.com/	          | 	[		] (https://gwpaeng.tistory.com/)	                       | 		            |
+| 	https://caputdraconis.tistory.com/	    | 	[		]	(https://caputdraconis.tistory.com/)	                 | 		            |
+| 	https://codinggorani.tistory.com	      | 	[		]	(https://codinggorani.tistory.com)	                   | 		            |
+| 	https://ai-hong.tistory.com	           | 	[		]	(https://ai-hong.tistory.com)	                        | 		            |
+| 	https://nadarm.tistory.com	            | 	[		]	(https://github.com/nadarm)	                          | 		            |
+| 	https://michellejin12.github.io/blog/	 | 	[		]	(https://michellejin12.github.io/blog/)	              | 		            |
+| 	https://blog.naver.com/yoagi110	       | 	[		]	(https://github.com/yoagi110)	                        | 		            |
+| 	https://lulu-lala0923.tistory.com/	    | 	[		]		                                                     | 		            |
+| 	https://blog.naver.com/minequinto	     | 	[		]		                                                     | 		            |
+| 	https://hi0seon.tistory.com	           | 	[		]	(https://hi0seon.tistory.com)	                        | 		            |
 
-
+*  github ID 링크가 github(혹은 gitlab)이 아닌 분들의 ID는 삭제 했습니다..
 ** 각자 수정해서 PR 날려주세요. (Github-ID 알파벳 순 지켜주시고.. )
