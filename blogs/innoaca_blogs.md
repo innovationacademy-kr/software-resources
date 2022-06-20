@@ -25,6 +25,7 @@
 * [이노베이션 아카데미 사람들 인터뷰](https://humansof42.com)
 * [팔만코딩경](https://80000coding.oopy.io)
 
+
 | 블로그 URL                                 | Github Profile - Github-ID 알파벳순                             | 소개멘트          |
 |-----------------------------------------|:------------------------------------------------------------|---------------|
 | 	https://velog.io/@kby9906	             | 	[AndroidNetrunner](https://github.com/AndroidNetrunner)	   | 	도전하는 삶	      |
@@ -86,7 +87,6 @@
 | 	https://lulu-lala0923.tistory.com/	    | 	[		]		                                                     | 		            |
 | 	https://blog.naver.com/minequinto	     | 	[		]		                                                     | 		            |
 | 	https://hi0seon.tistory.com	           | 	[		]	(https://hi0seon.tistory.com)	                        | 		            |
-
 
 ** github ID 링크가 github(혹은 gitlab)이 아닌 분들의 ID는 삭제 했습니다..  
 ** 각자 수정해서 PR 날려주세요. (Github-ID 알파벳 순 지켜주시고.. )
