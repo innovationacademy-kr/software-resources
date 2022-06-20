@@ -41,7 +41,7 @@
 | https://velog.io/@hekang             | [hekang](https://github.com/hekang42)           ||
 | https://onwah.tistory.com/           | [hjeon](https://github.com/jho2301)             ||
 | https://lecor.tistory.com/           | [hjung](https://github.com/hysimok)             ||
-| https://codinggorani.tistory.com     | [hnoh](https://codinggorani.tistory.com)        ||
+| https://codinggorani.tistory.com     | [hnoh](https://github.com/NOGUEN)               ||
 | https://egas.tistory.com/            | [holee](https://github.com/hochan222)           ||
 | https://blog.naver.com/hyeonjun7     | [hyeonpar](https://github.com/c2lv)             ||
 | https://hyeonski.tistory.com/        | [hyeonski](https://github.com/hyeonski)         ||
@@ -66,7 +66,7 @@
 | https://velog.io/@sebaek42           | [sebaek42](https://github.com/sebaek42)         ||
 | https://velog.io/@secho              | [secho](https://github.com/seongsangCHO)        ||
 | https://tetramad.github.io           | [sejang](https://github.com/Tetramad)           ||
-| https://michellejin12.github.io/blog/| [sejin](https://michellejin12.github.io/blog/)  ||
+| https://michellejin12.github.io/blog/| [sejin](https://github.com/michellejin12)       ||
 | https://blog.naver.com/ksm_ani       | [seungmki](https://gitlab.com/ksmani0)          ||
 | https://sewcode.tistory.com/         | [sjeong12](https://github.com/sjeong12)         ||
 | https://velog.io/@jaranda            | [sku](https://github.com/ksks723)               ||
@@ -76,13 +76,14 @@
 | https://blog.naver.com/jsg2804       | [sunhkim](https://github.com/mocha-kim)         ||
 | https://brunch.co.kr/@swimjiy        | [swimjiy](https://github.com/swimjiy)           ||
 | https://wonillism.tistory.com        | [wopark](https://github.com/WONILLISM)          ||
+| https://velog.io/@siontama           | [Yaminyam](https://github.com/Yaminyam)         ||
 | https://velog.io/@yujo               | [YUJO42](https://github.com/YUJO42)             ||
 | https://eeeuns.github.io/            | [yunselee](https://github.com/EeeUnS)           ||
 | https://yunslee-42seoul.tistory.com/ | [yunslee](https://github.com/exgs)              ||
 | https://lulu-lala0923.tistory.com/   |                                                 ||
 | https://epicarts.tistory.com/        | [ychoi](https://github.com/epicarts)            ||
 | https://yechoi.tistory.com/          | [yechoi42](https://github.com/yechoi42)         ||
-| https://yeslee-v.medium.com/         | [yeslee](https://github.com/yeslee-v)			 ||
+| https://yeslee-v.medium.com/         | [yeslee](https://github.com/yeslee-v)			     ||
 | https://yohai.tistory.com/           | [yohlee](https://github.com/l-yohai)            ||
 | https://blog.naver.com/minequinto    |                                                 ||
 | https://hi0seon.tistory.com          | [yoahn](https://hi0seon.tistory.com)            ||
