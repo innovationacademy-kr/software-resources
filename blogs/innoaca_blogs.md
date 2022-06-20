@@ -50,6 +50,7 @@
 | 	https://hyeyoo.com	                    | 	[	hygoni	](https://github.com/hygoni)	                     | 		            |
 | 	https://lecor.tistory.com/	            | 	[	hysimok	](https://github.com/hysimok)	                   | 		            |
 | 	https://jaeseokim.dev/	                | 	[	JaeSeoKim	](https://github.com/jaeSeoKim)	               | 		            |
+|   https://techdebt.tistory.com/           | [JeonYoungHo-youjeon](https://github.com/JeonYoungHo-youjeon)|                |
 | 	https://onwah.tistory.com/	            | 	[	jho2301	](https://github.com/jho2301)	                   | 		            |
 | 	https://forhjy.medium.com/	            | 	[	jiyoon1156	](https://github.com/jiyoon1156)	             | 		            |
 | 	https://velog.io/@jaranda	             | 	[	ksks723	](https://github.com/ksks723)	                   | 		            |
