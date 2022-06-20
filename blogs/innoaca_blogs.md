@@ -25,7 +25,7 @@
 * [이노베이션 아카데미 사람들 인터뷰](https://humansof42.com)
 * [팔만코딩경](https://80000coding.oopy.io)
 
-| 블로그 URL                           | 블로그 주인 Github Profile - 알파벳순        | 소개멘트 |
+| 블로그 URL                           | Github Profile - github id 알파벳순        | 소개멘트 |
 | ------------------------------------ | :---------------------------------------------- | -----------|
 | https://velog.io/@kby9906            | [byukim](https://github.com/AndroidNetrunner)   | 도전하는 삶 |
 | https://velog.io/@cos                | [cos18](https://github.com/cos18)               | 잡다한거 하는 개발자|
