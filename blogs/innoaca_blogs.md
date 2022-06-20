@@ -87,5 +87,6 @@
 | 	https://blog.naver.com/minequinto	     | 	[		]		                                                     | 		            |
 | 	https://hi0seon.tistory.com	           | 	[		]	(https://hi0seon.tistory.com)	                        | 		            |
 
-*  github ID 링크가 github(혹은 gitlab)이 아닌 분들의 ID는 삭제 했습니다..
+
+** github ID 링크가 github(혹은 gitlab)이 아닌 분들의 ID는 삭제 했습니다..  
 ** 각자 수정해서 PR 날려주세요. (Github-ID 알파벳 순 지켜주시고.. )
