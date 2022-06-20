@@ -68,7 +68,7 @@
 | https://tetramad.github.io           | [sejang](https://github.com/Tetramad)           ||
 | https://michellejin12.github.io/blog/| [sejin](https://michellejin12.github.io/blog/)  ||
 | https://blog.naver.com/ksm_ani       | [seungmki](https://gitlab.com/ksmani0)          ||
-| https://velog.io/@siontama           | [sikang](https://velog.io/@siontama)            ||
+| https://velog.io/@siontama           | [sikang](https://github.com/Yaminyam)           ||
 | https://sewcode.tistory.com/         | [sjeong12](https://github.com/sjeong12)         ||
 | https://velog.io/@jaranda            | [sku](https://github.com/ksks723)               ||
 | https://velog.io/@seungju0000        | [slee2](https://github.com/Lee-seungju)         ||
