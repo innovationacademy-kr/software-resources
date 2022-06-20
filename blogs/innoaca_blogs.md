@@ -50,6 +50,7 @@
 | https://velog.io/@therealjamesjung   | [jaekjung](https://github.com/therealjamesjung) ||
 | https://jaeseokim.dev/               | [jaeskim](https://github.com/jaeSeoKim)         ||
 | https://ai-hong.tistory.com          | [jeohong](https://ai-hong.tistory.com)          ||
+| https://techdebt.tistory.com/        | [JeonYoungHo-youjeon](https://github.com/JeonYoungHo-youjeon)||
 | https://forhjy.medium.com/           | [jhur](https://github.com/jiyoon1156)           ||
 | https://earthkingman.tistory.com/    | [ji-park](https://github.com/earthkingman)      ||
 | https://bigpel66.oopy.io/            | [jseo](https://github.com/bigpel66)             ||
