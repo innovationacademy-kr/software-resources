@@ -43,6 +43,7 @@
 | https://blog.naver.com/iyooha                   | #game                                                        |
 | https://blog.naver.com/nackji80                 |                                                              |
 | https://blog.naver.com/occidere                 |                                                              |
+| https://blog.naver.com/pjt3591oo                |                                                              |
 | https://bob-full.tistory.com/                   |                                                              |
 | https://brunch.co.kr/@alden                     |                                                              |
 | https://brunch.co.kr/@chris-song                |                                                              |
