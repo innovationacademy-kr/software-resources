@@ -74,6 +74,7 @@
 | 	https://tre2man.tistory.com/	          | 	[	tre2man	](https://github.com/tre2man)	                   | 		            |
 | 	https://gilee.kr	                      | 	[	weg901127	](https://github.com/weg901127)	               | 		            |
 | 	https://wonillism.tistory.com	         | 	[	WONILLISM	](https://github.com/WONILLISM)	               | 		            |
+|   https://velog.io/@siontama              |   [ Yaminyam ](https://github.com/Yaminyam)                   |               |
 | 	https://yechoi.tistory.com/	           | 	[	yechoi42	](https://github.com/yechoi42)	                 | 		            |
 | 	https://yeslee-v.medium.com/	          | 	[	yeslee-v	](https://github.com/yeslee-v)	                 | 		            |
 | 	https://velog.io/@yujo	                | 	[	YUJO42	](https://github.com/YUJO42)	                     | 		            |
