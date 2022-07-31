@@ -54,6 +54,7 @@
 |   https://techdebt.tistory.com/           | [JeonYoungHo-youjeon](https://github.com/JeonYoungHo-youjeon)|                |
 | 	https://onwah.tistory.com/	            | 	[	jho2301	](https://github.com/jho2301)	                   | 		            |
 | 	https://forhjy.medium.com/	            | 	[	jiyoon1156	](https://github.com/jiyoon1156)	             | 		            |
+| 	https://sungjpar.notion.site/	            | 	[	JuneParkCode	](https://github.com/JuneParkCode)	  |개발자가 되어가는 길       |
 | 	https://velog.io/@jaranda	             | 	[	ksks723	](https://github.com/ksks723)	                   | 		            |
 | 	https://blog.naver.com/ksm_ani	        | 	[	ksmani0	](https://gitlab.com/ksmani0)	                   | 		            |
 | 	https://kunhee.kim/	                   | 	[	ku-kim	](https://github.com/ku-kim)	                     | 		            |
