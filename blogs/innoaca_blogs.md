@@ -31,7 +31,7 @@
 | 	https://velog.io/@kby9906	             | 	[AndroidNetrunner](https://github.com/AndroidNetrunner)	   | 	도전하는 삶	      |
 | 	https://velog.io/@devsh	               | 	[atlanboa](https://github.com/atlanboa)	                   | 		            |
 | 	https://bigpel66.oopy.io/	             | 	[bigpel66](https://github.com/bigpel66)	                   | 		            |
-| 	https://blog.naver.com/hyeonjun7	      | 	[c2lv](https://github.com/c2lv)	                           | 		            |
+| 	https://blog.naver.com/hyeonjun7	      | 	[c2lv](https://github.com/c2lv)	                           | 생활밀착형 개발자 |
 | 	https://ceuity.tistory.com/	           | 	[ceuity](https://github.com/ceuity)	                       | 		            |
 | 	https://choidongkyu96.github.io/	      | 	[ChoiDongKyu96](https://github.com/ChoiDongKyu96)	         | 	소소한 코딩모음	    |
 | 	https://velog.io/@cos	                 | 	[	cos18	](https://github.com/cos18)	                       | 	잡다한거 하는 개발자	 |
