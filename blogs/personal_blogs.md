@@ -109,6 +109,7 @@
 | https://paiai.tistory.com/category              | #Python, #Java, #빅데이터, #알고리즘, #PHP,  #DB, #머신러닝, #IDE, #AWS,  #Node.js, #Kaggle, #Tensorflow |
 | https://popit.kr                                |                                                              |                                     
 | https://sanghaklee.tistory.com                  |                                                              |
+| https://singularis7.tistory.com/                |                                                              |
 | https://taegon.kim                              |                                                              | 
 | https://taylor-kang.github.io/                  |                                                              |
 | https://tech.ssut.me/                           |                                                              |
