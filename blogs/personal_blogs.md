@@ -92,6 +92,7 @@
 | https://lovemewithoutall.github.io              |                                                              |
 | https://lsjsj92.tistory.com                     |                                                              |
 | http://mearie.org/                              |                                                              |
+| https://medium.com/@bubble.kim                  |                                                              |
 | https://medium.com/@dan_kim                     |                                                              |
 | https://medium.com/@hkc7180                     |                                                              |
 | https://medium.com/@sryu99                      |                                                              |
