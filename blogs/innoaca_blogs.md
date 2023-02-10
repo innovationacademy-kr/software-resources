@@ -82,7 +82,7 @@
 | 	https://velog.io/@yujo	                | 	[	YUJO42	](https://github.com/YUJO42)	                     | 		            |
 | 	https://urakasumi.tistory.com/	        | 	[		] (https://github.com/Soksurim)	                        | 		            |
 | 	https://caputdraconis.tistory.com/	    | 	[		]	(https://caputdraconis.tistory.com/)	                 | 		            |
-| 	https://codinggorani.tistory.com	      | 	[		]	(https://codinggorani.tistory.com)	                   | 		            |
+| 	https://noguen.com	                   | 	[ hnoh ]	(https://noguen.com)	                             | 노근 블로그  |
 | 	https://ai-hong.tistory.com	           | 	[		]	(https://ai-hong.tistory.com)	                        | 		            |
 | 	https://nadarm.tistory.com	            | 	[		]	(https://github.com/nadarm)	                          | 		            |
 | 	https://michellejin12.github.io/blog/	 | 	[		]	(https://michellejin12.github.io/blog/)	              | 		            |
