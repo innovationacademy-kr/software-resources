@@ -59,6 +59,7 @@
 * [휴먼스케이프](https://medium.com/humanscape-tech)
 * [IMQA](https://blog.imqa.io/)
 * [JANDI](https://tosslab.github.io/)
+* [Kernel360](https://kernel360.github.io/blog/)
 * [NHN](https://meetup.toast.com/)
 * [NHN TOAST UI](https://ui.toast.com/weekly-pick/ko)
 * [SK 그룹](https://devocean.sk.com)
